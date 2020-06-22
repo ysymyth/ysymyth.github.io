@@ -8,7 +8,7 @@ permalink: /index.html
 
 I am a Ph.D. student of computer science at Princeton University, advised by [Prof. Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I was an undergrad in Yao Class at Tsinghua University, and an intern in Google Brain and MIT CSAIL/BCS.
 
-My research interests include language, games, vision, representation learning, cognitive science, and artificial intelligence in general.
+My research interests include language, games, representation learning, cognitive science, vision, and artificial intelligence in general.
 
 My personal interests include reading, basketball, travel, and rap. 
 
