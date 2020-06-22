@@ -29,10 +29,13 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
+          <!--<nav>
             <a href="{{ site.baseurl }}/">About</a>
-            <!--<a href="{{ site.baseurl }}/blog">Blog</a> -->
+            <a href="{{ site.baseurl }}/blog">Blog</a>
             <a href="{{ site.baseurl }}/papers">Papers</a>
+          </nav> -->
+          <nav>
+            {% include svg-icons.html %}
           </nav>
         </header>
       </div>
