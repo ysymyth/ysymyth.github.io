@@ -11,3 +11,7 @@ I am a Ph.D. student of Computer Science at Princeton University, advised by [Pr
 My research interests include language, games, representation learning, cognitive science, and artificial intelligence in general.
 
 My personal interests include reading, basketball, travel, and rap. 
+
+
+{% capture m %}{% include papers.md %}{% endcapture %}
+{{ m | markdownify }}
