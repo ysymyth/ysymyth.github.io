@@ -10,5 +10,4 @@ My research interests include language, games, representation learning, cognitiv
 
 My personal interests include reading, basketball, travel, and rap.
 
-<img style="float:right; padding-left:10px" src="images/self.jpeg" width="200" height="200">
-
+&nbsp;&nbsp;<img align="right" src="images/self.jpeg" width="200" height="200">
