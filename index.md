@@ -4,16 +4,16 @@ title: About
 permalink: /index.html
 ---
 
-<img style="float:right; padding-left:20px" src="images/self.jpeg" width="200" height="200">
+<img style="float:right; padding-left:10px" src="images/self.jpeg" width="200" height="200">
 
-I am a Ph.D. student in computer science at Princeton University, advised by [Prof. Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
+I am a Ph.D. student in computer science at Princeton University advised by [Prof. Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
 
 My research interests include language, games, representation learning, cognitive science, vision, and AI in general.
 
 My personal interests include reading, basketball, travel, and rap. 
 
 
-### Papers
+# Papers
 - **The Fine Structure of Surprise in Intuitive Physics: When, Why, and How Much?**.
 Kevin Smith, Lingjie Mei, Shunyu Yao, Jiajun Wu, Elizabeth S. Spelke, Joshua B. Tenenbaum, Tomer D. Ullman.
 ___CogSci 2020___.
