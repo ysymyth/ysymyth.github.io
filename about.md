@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Ph.D. student at Princeton University, studying artificial intelligence. 
+I am a Ph.D. student at Princeton University advised by [Prof. Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 
 ### Publications
 
