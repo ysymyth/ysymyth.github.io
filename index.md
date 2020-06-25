@@ -4,9 +4,9 @@ title: About
 permalink: /index.html
 ---
 
-<img style="float:right; padding-left:10px" src="images/self.jpeg" width="200" height="200">
+<img style="float:right; padding-left:10px" src="images/self.jpeg" width="180" height="180">
 
-I am a Ph.D. student in computer science at Princeton University advised by [Prof. Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
+I am a Ph.D. student in computer science at Princeton University, advised by [Prof. Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
 
 My research interests include language, games, representation learning, cognitive science, vision, and AI in general.
 
