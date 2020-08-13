@@ -8,7 +8,7 @@ permalink: /index.html
 
 I am a Ph.D. student in computer science at Princeton University, advised by [Prof. Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
 
-My research interests include language, games, representation learning, cognitive science, vision, and AI in general.
+My research interests include language, games, representation learning, cognitive science, and AI in general.
 
 My personal interests include reading, basketball, travel, and rap. 
 
@@ -17,7 +17,7 @@ My personal interests include reading, basketball, travel, and rap.
 - **The Fine Structure of Surprise in Intuitive Physics: When, Why, and How Much?**.
 Kevin Smith, Lingjie Mei, Shunyu Yao, Jiajun Wu, Elizabeth S. Spelke, Joshua B. Tenenbaum, Tomer D. Ullman.
 ___CogSci 2020___.
-[[pdf](https://jiajunwu.com/papers/surprise_cogsci.pdf)]
+[[pdf](https://cognitivesciencesociety.org/cogsci20/papers/0762/0762.pdf)]
 
 - **Modeling Expectation Violation in Intuitive Physics with Coarse Probabilistic Object Representations**.
 Kevin Smith\*, Lingjie Mei\*, Shunyu Yao\*, Jiajun Wu, Elizabeth S. Spelke, Joshua B. Tenenbaum, Tomer D. Ullman.
