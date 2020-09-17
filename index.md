@@ -14,6 +14,10 @@ My personal interests include reading, basketball, travel, and rap.
 
 
 # Papers
+- **Keep CALM and Explore: Language Models for Action Generation in Text-based Games**.
+Shunyu Yao, Rohan Rao, Matthew Hausknecht, Karthik Narasimhan.
+___EMNLP 2020___. (to appear)
+
 - **The Fine Structure of Surprise in Intuitive Physics: When, Why, and How Much?**.
 Kevin Smith, Lingjie Mei, Shunyu Yao, Jiajun Wu, Elizabeth S. Spelke, Joshua B. Tenenbaum, Tomer D. Ullman.
 ___CogSci 2020___.
