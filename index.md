@@ -16,12 +16,12 @@ My personal interests include reading, basketball, travel, and rap.
 # Papers
 - **Keep CALM and Explore: Language Models for Action Generation in Text-based Games**.
 Shunyu Yao, Rohan Rao, Matthew Hausknecht, Karthik Narasimhan.
-___EMNLP 2020___. (to appear)
+___EMNLP 2020___. [[pdf](https://arxiv.org/pdf/2010.02903.pdf)] [[code](https://github.com/princeton-nlp/calm-textgame)]
 
 - **The Fine Structure of Surprise in Intuitive Physics: When, Why, and How Much?**.
 Kevin Smith, Lingjie Mei, Shunyu Yao, Jiajun Wu, Elizabeth S. Spelke, Joshua B. Tenenbaum, Tomer D. Ullman.
 ___CogSci 2020___.
-[[pdf](https://cognitivesciencesociety.org/cogsci20/papers/0762/0762.pdf)]
+[[pdf](https://ysymyth.github.io/papers/surprise_cogsci.pdf)]
 
 - **Modeling Expectation Violation in Intuitive Physics with Coarse Probabilistic Object Representations**.
 Kevin Smith\*, Lingjie Mei\*, Shunyu Yao\*, Jiajun Wu, Elizabeth S. Spelke, Joshua B. Tenenbaum, Tomer D. Ullman.
