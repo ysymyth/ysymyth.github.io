@@ -14,6 +14,10 @@ My personal interests include reading, basketball, travel, and rap.
 
 
 # Papers
+- **Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents**.
+Shunyu Yao, Karthik Narasimhan, Matthew Hausknecht.
+___NAACL 2021___. [[pdf](https://arxiv.org/pdf/2103.13552.pdf)]
+
 - **Keep CALM and Explore: Language Models for Action Generation in Text-based Games**.
 Shunyu Yao, Rohan Rao, Matthew Hausknecht, Karthik Narasimhan.
 ___EMNLP 2020___. [[pdf](https://arxiv.org/pdf/2010.02903.pdf)] [[code](https://github.com/princeton-nlp/calm-textgame)]
