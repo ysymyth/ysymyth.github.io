@@ -60,28 +60,16 @@ A projection back to the meaning-probing-grounding framework:
 
 ## The Proof
 
-![main](Ungrounded Meaning/main.png)
+![main](/images/main.png)
 
 The idea of the proof is quite simple. Consider Python programs looking like either left or right, where `m` and `n` can be seen as integer constants. Here `tm_run` is essentially an Universal Turing Machine that takes Turing machine state `m` and returns Turing machine state `n` steps later. 
 
 * **Oracle has no computability beyond Turing Machine**, because for each concrete `n`, both programs can be run in finite time and compared.
 * **"Emulating semantics" requires solving the halting problem and is not computable**, because for a fixed `m`, if
 
-![decide](Ungrounded Meaning/decide.png)
+![decide](/images/decide.png)
 
 holds, it means it holds for all `n`, i.e. Turing Machine `m` does not halt. You simply can't do that if your oracle isn't beyond Turing Machine.
-
-Perhaps ironicly, the paper explicitly says
-
-```
-...should not be mistaken for a family of arguments about the difficulty of language modeling that reduces uncomputable or intractable problems to language modeling. For example, one could input a prompt 
-
-There is a universal Turing machine with initial configuration m. Does the machine halt? The answer is... 
-
-In that case, predicting the next token requires solving the halting problem, suggesting that arbitrary language modeling is uncomputable. That is not the argument we are making. 
-```
-
-
 
 ## Back to The Setup
 
