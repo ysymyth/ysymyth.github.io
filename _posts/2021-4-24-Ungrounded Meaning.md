@@ -65,7 +65,7 @@ A projection back to the meaning-probing-grounding framework:
 The idea of the proof is quite simple. Consider Python programs looking like either left or right, where `m` and `n` can be seen as integer constants. Here `tm_run` is essentially an Universal Turing Machine that takes Turing machine state `m` and returns Turing machine state `n` steps later. 
 
 * **Oracle has no computability beyond Turing Machine**, because for each concrete `n`, both programs can be run in finite time and compared.
-* **"Emulating semantics" requires solving the halting problem and is not computable**, because for a fixed `m`, if
+* **"Emulating meaning" requires solving the halting problem (for every `m`) and is not computable**, because for a fixed `m`, if
 
 ![decide](/images/decide.png)
 
@@ -79,19 +79,21 @@ I feel the main proof is rather tricky than insightful, and here are a few comme
 
 * The considered language is too weak - just a tiny subset of possible Python programs, so that it makes oracle weaker (within TM) and task easier (but still beyond TM). 
 
-* Power about natural language is you can talk about language itself, but a subset of Python code cannot enable that. Suppose you have an assertion like
+* Power about language is you can talk about language itself, and that's the essence of Turing Machine. In a "complete" language, from assertion
 
   ```
   Program m cannot halt in any finite steps
   ```
 
-  then you gain meaning about program `m`. This is because you understand meanings of extra things like "any" or "finite". **So perhaps minimal grounding requires knowing meaning beyond `assert` - maybe some other elements like `or` `any` `if`......**
+  you can gain meaning about program `m`. This is because you understand meanings of extra things like "any" or "finite". **So perhaps minimal grounding requires knowing meaning beyond `assert` - maybe some other elements like `or` `any` `if`......**
 
 ## Back to The Question
 
 * Theoretical question is hard, not yet well-defined. This paper seems to brings more question than answers. 
   * Better setup or definition for "learning meaning" and "grounding" might be needed.
   * Especially, in language of logic, grounding and inductive bias are very similar, and are very tricky. 
-* Theoretical question might not be related to the empirical question (yet), especially when the theoretical question leads to negative answers. Kind of like worse-case time complexity analysis vs. practicatily of some algorithm.
-* Key aspects about learning from form are still missing: modelling token co-occurance, for example, is not even touched in the paper. How co-occurance statistics lead to 
+* Theoretical question might not be related to the empirical question (yet), especially when the theoretical question leads to negative answers. 
+  * Theory may not have been well-established, and setups are far from practice.
+  * Even if the theory is well-established, think of worse-case time complexity analysis vs. practicatily of some algorithm.
+* Key aspects about learning from form are still missing: modelling token co-occurance, for example, is not even touched in the paper. How co-occurance statistics lead to "structure" is still intriguing. 
 
