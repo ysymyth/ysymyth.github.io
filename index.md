@@ -14,9 +14,14 @@ My personal interests include reading, basketball, travel, and rap.
 
 
 # Papers
+- **Self-Attention Networks Can Process Bounded Hierarchical Languages**.
+Shunyu Yao, Binghui Peng, Christos Papadimitriou, Karthik Narasimhan.
+___ACL 2021___. [[pdf](https://arxiv.org/pdf/2105.11115.pdf)] [[code](https://github.com/princeton-nlp/dyck-transformer)]
+
 - **Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents**.
 Shunyu Yao, Karthik Narasimhan, Matthew Hausknecht.
-___NAACL 2021___. [[pdf](https://arxiv.org/pdf/2103.13552.pdf)]
+___NAACL 2021___. [[pdf](https://arxiv.org/pdf/2103.13552.pdf)] [[code](https://github.com/princeton-nlp/blindfold-textgame)] [[project](https://blindfolded.cs.princeton.edu)]
+
 
 - **Keep CALM and Explore: Language Models for Action Generation in Text-based Games**.
 Shunyu Yao, Rohan Rao, Matthew Hausknecht, Karthik Narasimhan.
