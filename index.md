@@ -4,11 +4,12 @@ title: About
 permalink: /index.html
 ---
 
-<img style="float:right; padding-left:10px" src="images/self.jpeg" width="180" height="180">
+<img style="float:right; padding-left:10px" src="images/self.jpeg" width="200" height="200">
 
 I am a Ph.D. candidate in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
 
-My research interests include language, reinforcement, representation learning and their intersections, e.g. how language models can act [[1](https://arxiv.org/abs/2010.02903)] and how autonomous agent can evolve language-like representations [[1](https://openreview.net/forum?id=49A1Y6tRhaq)]. The goal is twofold: to leverage language priors for grounded, interactive tasks, and to develop more functional and capable langauge models beyond fitting static corpora using such domains. 
+My research interests include language, reinforcement, representation learning and their intersections, e.g. [how language models can act](https://arxiv.org/abs/2010.02903) and [how autonomous agent can evolve language-like representations](https://openreview.net/forum?id=49A1Y6tRhaq). 
+The goal is twofold: to leverage language priors for grounded, interactive tasks, and to develop more functional and capable langauge models using such domains.
 
 My personal interests include reading, basketball, pool, travel, and rap. 
 
