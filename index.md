@@ -8,7 +8,7 @@ permalink: /index.html
 
 I am a Ph.D. candidate in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
 
-My research interests include language/reinforcement/representation learning and their intersections, e.g. how language models can act [[1](https://arxiv.org/abs/2010.02903)] and how autonomous agent can develop language-like representations [[1](https://openreview.net/forum?id=49A1Y6tRhaq)]. The goal is twofold: enable pre-trained language priors benefit grounded and interactive tasks, and how such domains enable more functional and generalizable langauge models beyond static corpora. 
+My research interests include language, reinforcement, representation learning and their intersections, e.g. how language models can act [[1](https://arxiv.org/abs/2010.02903)] and how autonomous agent can evolve language-like representations [[1](https://openreview.net/forum?id=49A1Y6tRhaq)]. The goal is twofold: to leverage language priors for grounded, interactive tasks, and to develop more functional and capable langauge models beyond fitting static corpora using such domains. 
 
 My personal interests include reading, basketball, pool, travel, and rap. 
 
@@ -16,7 +16,7 @@ My personal interests include reading, basketball, pool, travel, and rap.
 # Selected Papers
 
 - **Linking Emergent and Natural Languages via Corpus Transfer**.
-Shunyu Yao, Mo Yu, Yang Zhang, Karthik Narasimhan, Joshua Tenenbaum, Chuang Gan
+Shunyu Yao, Mo Yu, Yang Zhang, Karthik Narasimhan, Joshua Tenenbaum, Chuang Gan.
 ___ICLR 2022 (Spotlight)___. [[pdf](https://openreview.net/pdf?id=49A1Y6tRhaq)] [[code](https://github.com/ysymyth/ec-nl)]
 
 - **Multi-Stage Episodic Control for Strategic Exploration in Text Games**.
