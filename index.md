@@ -10,7 +10,7 @@ I am a Ph.D. candidate in computer science at Princeton University, advised by [
 
 My research interests include language, games, representation learning, cognitive science, and AI in general.
 
-My personal interests include reading, basketball, travel, and rap. 
+My personal interests include reading, basketball, pool, travel, and rap. 
 
 
 # Papers
