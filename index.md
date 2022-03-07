@@ -9,7 +9,7 @@ permalink: /index.html
 I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
 
 My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](https://arxiv.org/abs/2010.02903) or [game agents to evolve communications resembling language](https://openreview.net/forum?id=49A1Y6tRhaq). 
-The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL), so as to tackle grounded, semantic problems in a general and generalizable way.
+The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for problems requiring both inductive bias and flexible adaptions.
 
 <!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
 
