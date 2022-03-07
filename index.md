@@ -8,8 +8,14 @@ permalink: /index.html
 
 I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
 
-My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling language models to act in interactive games [EMNLP'20], or game agents to evolve communications resembling language [ICLR'22 (1)]. 
+<!-- My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling language models to act in interactive games [EMNLP'20], or game agents to evolve communications resembling language [ICLR'22 (1)]. 
 The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL), for challenging problems requiring semantic [NAACL'21] inductive bias plus flexible adaption and exploration [ICLR'22 (2)].
+ -->
+
+
+My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](https://arxiv.org/abs/2010.02903) or [game agents to evolve communications resembling language](https://openreview.net/forum?id=49A1Y6tRhaq). 
+The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL), for challenging problems requiring [semantic](https://arxiv.org/abs/2103.13552) inductive bias plus flexible adaption and [exploration](https://arxiv.org/abs/2201.01251).
+
 
 <!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
 
