@@ -8,8 +8,8 @@ permalink: /index.html
 
 I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
 
-My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC). 
-The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX).
+My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling language models to act in interactive games [EMNLP'20], or game agents to evolve communications resembling language [ICLR'22 (1)]. 
+The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL), for challenging problems requiring semantic [NAACL'21] inductive bias plus flexible adaption and exploration [ICLR'22 (2)].
 
 <!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
 
@@ -18,11 +18,11 @@ My personal interests include reading, basketball, pool, travel, and rap.
 
 # Papers
 
-- <div id="EC"></div> **Linking Emergent and Natural Languages via Corpus Transfer**.
+- **Linking Emergent and Natural Languages via Corpus Transfer**.
 Shunyu Yao, Mo Yu, Yang Zhang, Karthik Narasimhan, Joshua Tenenbaum, Chuang Gan.
 ___ICLR 2022 (Spotlight)___. [[pdf](https://openreview.net/pdf?id=49A1Y6tRhaq)] [[code](https://github.com/ysymyth/ec-nl)]
 
-- <div id="XTX"></div> **Multi-Stage Episodic Control for Strategic Exploration in Text Games**.
+- **Multi-Stage Episodic Control for Strategic Exploration in Text Games**.
 Jens Tuyls, Shunyu Yao, Sham Kakade, Karthik Narasimhan.
 ___ICLR 2022 (Spotlight)___. [[pdf](https://arxiv.org/pdf/2201.01251.pdf)] [[code](https://github.com/princeton-nlp/XTX)] [[project](https://sites.google.com/princeton.edu/xtx)]
 
@@ -31,11 +31,11 @@ ___ICLR 2022 (Spotlight)___. [[pdf](https://arxiv.org/pdf/2201.01251.pdf)] [[cod
 Shunyu Yao, Binghui Peng, Christos Papadimitriou, Karthik Narasimhan.
 ___ACL 2021___. [[pdf](https://arxiv.org/pdf/2105.11115.pdf)] [[code](https://github.com/princeton-nlp/dyck-transformer)]
 
-- <div id="Blindfold"></div> **Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents**.
+- **Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents**.
 Shunyu Yao, Karthik Narasimhan, Matthew Hausknecht.
 ___NAACL 2021___. [[pdf](https://arxiv.org/pdf/2103.13552.pdf)] [[code](https://github.com/princeton-nlp/blindfold-textgame)] [[project](https://blindfolded.cs.princeton.edu)] [[MSR blogpost](https://www.microsoft.com/en-us/research/blog/building-stronger-semantic-understanding-into-text-game-reinforcement-learning-agents/)]
 
-- <div id="CALM"></div> **Keep CALM and Explore: Language Models for Action Generation in Text-based Games**.
+- **Keep CALM and Explore: Language Models for Action Generation in Text-based Games**.
 Shunyu Yao, Rohan Rao, Matthew Hausknecht, Karthik Narasimhan.
 ___EMNLP 2020___. [[pdf](https://arxiv.org/pdf/2010.02903.pdf)] [[code](https://github.com/princeton-nlp/calm-textgame)]
 
@@ -53,7 +53,6 @@ ___NeurIPS 2019___.
 [[project](http://physadept.csail.mit.edu)]
 [[MIT news](http://news.mit.edu/2019/adept-ai-machines-laws-physics-1202)]
 
-
 - **3D-aware Scene Manipulation via Inverse Graphics**.
 Shunyu Yao\*, Tzu-Ming Harry Hsu\*, Jun-Yan Zhu, Jiajun Wu, Antonio Torralba, William T. Freeman, Joshua B. Tenenbaum.
 ___NeurIPS 2018___.
@@ -62,45 +61,7 @@ ___NeurIPS 2018___.
 [[project](http://3dsdn.csail.mit.edu)]
 
 
-I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
+<!-- <div id="CALM"></div> -->
 
-My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC). 
-The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX).
-
-<!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
-
-My personal interests include reading, basketball, pool, travel, and rap. 
-I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
-
-My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC). 
-The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX).
-
-<!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
-
-My personal interests include reading, basketball, pool, travel, and rap. 
-
-I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
-
-My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC). 
-The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX).
-
-<!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
-
-My personal interests include reading, basketball, pool, travel, and rap. 
-I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
-
-My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC). 
-The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX).
-
-<!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
-
-My personal interests include reading, basketball, pool, travel, and rap. 
-
-I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
-
-My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC). 
-The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX).
-
-<!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
-
-My personal interests include reading, basketball, pool, travel, and rap. 
+<!-- My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC).  -->
+<!-- The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX). -->
