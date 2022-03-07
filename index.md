@@ -60,3 +60,47 @@ ___NeurIPS 2018___.
 [[pdf](http://papers.neurips.cc/paper/7459-3d-aware-scene-manipulation-via-inverse-graphics.pdf)]
 [[code](https://github.com/ysymyth/3D-SDN)]
 [[project](http://3dsdn.csail.mit.edu)]
+
+
+I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
+
+My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC). 
+The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX).
+
+<!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
+
+My personal interests include reading, basketball, pool, travel, and rap. 
+I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
+
+My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC). 
+The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX).
+
+<!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
+
+My personal interests include reading, basketball, pool, travel, and rap. 
+
+I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
+
+My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC). 
+The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX).
+
+<!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
+
+My personal interests include reading, basketball, pool, travel, and rap. 
+I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
+
+My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC). 
+The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX).
+
+<!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
+
+My personal interests include reading, basketball, pool, travel, and rap. 
+
+I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
+
+My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC). 
+The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX).
+
+<!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
+
+My personal interests include reading, basketball, pool, travel, and rap. 
