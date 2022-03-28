@@ -81,9 +81,15 @@ ___NeurIPS 2018___.
 
 
 # Readings
-Some recent readings of mine:
-
-* Linking Emergent and Natural Languages via Corpus Transfer.
+Some recent readings of mine in random orders:
+* 废都（贾平凹）
+* 生死疲劳（莫言）
+* 故事新编（鲁迅）
+* Principles (Ray Dalio)
+* Who Says Elephants Can't Dance (Louis. V. Gerstner)
+* Hit Refresh (Satya Nadella)
+* The Buried Giant (Kazuo Ishiguro)
+* How Language Began: The Story of Humanity's Greatest Invention (Daniel Everett)
 
 <!-- <div id="CALM"></div> -->
 
