@@ -80,6 +80,11 @@ ___NeurIPS 2018___.
 [project](http://3dsdn.csail.mit.edu)
 
 
+# Readings
+Some recent readings of mine:
+
+* Linking Emergent and Natural Languages via Corpus Transfer.
+
 <!-- <div id="CALM"></div> -->
 
 <!-- My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC).  -->
