@@ -24,8 +24,12 @@ My personal interests include reading, basketball, pool, travel, and rap.
 
 # Papers
 
-* **Linking Emergent and Natural Languages via Corpus Transfer**.
-Shunyu Yao, Mo Yu, Yang Zhang, Karthik Narasimhan, Joshua Tenenbaum, Chuang Gan. ___ICLR 2022 (Spotlight)___. 
+- 
+    **Linking Emergent and Natural Languages via Corpus Transfer**.
+    
+    Shunyu Yao, Mo Yu, Yang Zhang, Karthik Narasimhan, Joshua Tenenbaum, Chuang Gan. 
+    
+    ___ICLR 2022 (Spotlight)___. 
 [paper](http://arxiv.org/abs/2203.13344) | 
 [code](https://github.com/ysymyth/ec-nl)
 
