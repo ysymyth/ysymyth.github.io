@@ -23,6 +23,18 @@ My personal interests include reading, basketball, pool, travel, and rap.
 
 
 # Papers
+- **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents** <br>
+    Shunyu Yao\*, Howard Chen\*, John Yang, Karthik Narasimhan <br>
+    [paper](https://arxiv.org/abs/2207.01206) | 
+    [code](https://github.com/princeton-nlp/WebShop) | 
+    [project](https://webshop-pnlp.github.io) | 
+    [demo](https://webshop-pnlp.github.io/#demo)
+
+- **TVShowGuess: Character Comprehension in Stories as Speaker Guessing** <br>
+    Yisi Sang\*, Xiangyang Mou\*, Mo Yu\*, Shunyu Yao, Jing Li, Jeffrey Stanton <br>
+    [paper](https://arxiv.org/abs/2204.07721)  | 
+    [code](https://github.com/YisiSang/TVSHOWGUESS)
+
 
 - **Linking Emergent and Natural Languages via Corpus Transfer** <br>
     Shunyu Yao, Mo Yu, Yang Zhang, Karthik Narasimhan, Joshua Tenenbaum, Chuang Gan <br>
@@ -82,16 +94,22 @@ My personal interests include reading, basketball, pool, travel, and rap.
 
 
 # Readings
-Some recent readings of mine in random orders:
+Some recent readings:
 * 废都（贾平凹）
 * 生死疲劳（莫言）
 * 故事新编（鲁迅）
+* 个人的体验（大江健三郎）
+* 万古江河（许倬云）
+* Linear Algebra Done Right (Sheldon Axler)
 * Principles (Ray Dalio)
 * Who Says Elephants Can't Dance (Louis Gerstner)
 * Hit Refresh (Satya Nadella)
 * The Buried Giant (Kazuo Ishiguro)
 * How Language Began: The Story of Humanity's Greatest Invention (Daniel Everett)
 * The Linguistics Wars (Randy Allen Harris)
+* What Babies Know: Core Knowledge and Composition Volume 1 (Elizabeth Spelke)
+* At the Existentialist Café: Freedom, Being, and Apricot Cocktails (Sarah Bakewell)
+
 <!-- <div id="CALM"></div> -->
 
 <!-- My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC).  -->
