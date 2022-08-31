@@ -25,6 +25,7 @@ My personal interests include reading, basketball, pool, travel, and rap.
 # Papers
 - **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents** <br>
     Shunyu Yao\*, Howard Chen\*, John Yang, Karthik Narasimhan <br>
+    In Submission <br>
     [paper](https://arxiv.org/abs/2207.01206) | 
     [code](https://github.com/princeton-nlp/WebShop) | 
     [project](https://webshop-pnlp.github.io) | 
@@ -32,6 +33,7 @@ My personal interests include reading, basketball, pool, travel, and rap.
 
 - **TVShowGuess: Character Comprehension in Stories as Speaker Guessing** <br>
     Yisi Sang\*, Xiangyang Mou\*, Mo Yu\*, Shunyu Yao, Jing Li, Jeffrey Stanton <br>
+    NAACL 2022 <br>
     [paper](https://arxiv.org/abs/2204.07721)  | 
     [code](https://github.com/YisiSang/TVSHOWGUESS)
 
