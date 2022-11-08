@@ -26,7 +26,8 @@ My personal interests include reading, basketball, pool, travel, and rap.
 
 - **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
     Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
-    [paper](https://arxiv.org/abs/2210.03629)
+    [paper](https://arxiv.org/abs/2210.03629) |
+    [Google AI blogpost](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)
     
 - **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents** <br>
     Shunyu Yao\*, Howard Chen\*, John Yang, Karthik Narasimhan <br>
@@ -64,14 +65,14 @@ My personal interests include reading, basketball, pool, travel, and rap.
     [paper](https://arxiv.org/abs/2105.11115) | 
     [code](https://github.com/princeton-nlp/dyck-transformer)
 
-<!-- - **Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents** <br>
+ - **Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents** <br>
     Shunyu Yao, Karthik Narasimhan, Matthew Hausknecht <br>
     NAACL 2021 <br>
     [paper](https://arxiv.org/abs/2103.13552) | 
     [code](https://github.com/princeton-nlp/blindfold-textgame) |
     [project](https://blindfolded.cs.princeton.edu) | 
-    [MSR blogpost](https://www.microsoft.com/en-us/research/blog/building-stronger-semantic-understanding-into-text-game-reinforcement-learning-agents/)
- -->
+    [Microsoft Research blogpost](https://www.microsoft.com/en-us/research/blog/building-stronger-semantic-understanding-into-text-game-reinforcement-learning-agents/)
+
 - **Keep CALM and Explore: Language Models for Action Generation in Text-based Games** <br>
     Shunyu Yao, Rohan Rao, Matthew Hausknecht, Karthik Narasimhan <br>
     EMNLP 2020 <br>
