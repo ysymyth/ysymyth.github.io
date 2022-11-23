@@ -6,27 +6,21 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 
-I am a third-year Ph.D. student in computer science at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). Previously, I graduated from Yao Class at Tsinghua University.
+I am a Ph.D. student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
+Previously, I graduated from Yao Class at Tsinghua University.
 
-<!-- My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling language models to act in interactive games [EMNLP'20], or game agents to evolve communications resembling language [ICLR'22 (1)]. 
-The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL), for challenging problems requiring semantic [NAACL'21] inductive bias plus flexible adaption and exploration [ICLR'22 (2)].
- -->
+In my work, I build language agents to interact with the world, e.g. play text games (CALM), shop online (WebShop), answer questions with a Wikipedia API (ReAct). 
 
+In my life, I like reading, basketball, pool, travel, and rap. 
 
-My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](https://arxiv.org/abs/2010.02903) or [game agents to evolve communications resembling language](http://arxiv.org/abs/2203.13344). 
-The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL), for challenging problems requiring [semantic](https://arxiv.org/abs/2103.13552) inductive bias plus flexible adaption and [exploration](https://arxiv.org/abs/2201.01251).
-
-
-<!-- The goal is twofold: to leverage language priors for grounded and interactive tasks, and to leverage such domains for more functional and  langauge modeling. -->
-
-My personal interests include reading, basketball, pool, travel, and rap. 
-
+To contact me, click the paper plane, which is a language grounding problem.
 
 # Selected Papers
-
+Five recent papers:
 - **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
     Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
     [paper](https://arxiv.org/abs/2210.03629) |
+    [code](https://github.com/ysymyth/ReAct) |
     [Google AI blogpost](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)
     
 - **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents** <br>
@@ -59,11 +53,11 @@ My personal interests include reading, basketball, pool, travel, and rap.
     [project](https://sites.google.com/princeton.edu/xtx)
 
  -->
-- **Self-Attention Networks Can Process Bounded Hierarchical Languages** <br>
+<!-- - **Self-Attention Networks Can Process Bounded Hierarchical Languages** <br>
     Shunyu Yao, Binghui Peng, Christos Papadimitriou, Karthik Narasimhan <br>
     ACL 2021 <br>
     [paper](https://arxiv.org/abs/2105.11115) | 
-    [code](https://github.com/princeton-nlp/dyck-transformer)
+    [code](https://github.com/princeton-nlp/dyck-transformer) -->
 
  - **Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents** <br>
     Shunyu Yao, Karthik Narasimhan, Matthew Hausknecht <br>
@@ -93,32 +87,22 @@ My personal interests include reading, basketball, pool, travel, and rap.
     [project](http://physadept.csail.mit.edu) | 
     [MIT news](http://news.mit.edu/2019/adept-ai-machines-laws-physics-1202)
  -->
-- **3D-aware Scene Manipulation via Inverse Graphics** <br>
+<!-- - **3D-aware Scene Manipulation via Inverse Graphics** <br>
     Shunyu Yao\*, Tzu-Ming Harry Hsu\*, Jun-Yan Zhu, Jiajun Wu, Antonio Torralba, William Freeman, Joshua Tenenbaum <br>
     NeurIPS 2018 <br>
     [paper](https://arxiv.org/abs/1808.09351) | 
     [code](https://github.com/ysymyth/3D-SDN) | 
-    [project](http://3dsdn.csail.mit.edu)
+    [project](http://3dsdn.csail.mit.edu) -->
 
 
 # Selected Readings
-Some recent readings:
-* 废都（贾平凹）
-* 生死疲劳（莫言）
-* 故事新编（鲁迅）
-* 个人的体验（大江健三郎）
-* 万古江河（许倬云）
-* Linear Algebra Done Right (Sheldon Axler)
-* Principles (Ray Dalio)
-* Who Says Elephants Can't Dance (Louis Gerstner)
-* Hit Refresh (Satya Nadella)
-* The Buried Giant (Kazuo Ishiguro)
-* How Language Began: The Story of Humanity's Greatest Invention (Daniel Everett)
+Five recent readings:
+* Istanbul—Hatıralar ve Şehir (Orhan Pamuk)
+* Killing Kennedy: The End of Camelot (Bill O'Reilly, Martin Dugard)
 * The Linguistics Wars (Randy Allen Harris)
-* What Babies Know: Core Knowledge and Composition Volume 1 (Elizabeth Spelke)
-* At the Existentialist Café: Freedom, Being, and Apricot Cocktails (Sarah Bakewell)
+* Friends, Lovers, and the Big Terrible Thing (Matthew Perry)
+* What Babies Know (Elizabeth Spelke)
 
-<!-- <div id="CALM"></div> -->
 
-<!-- My research interests include language, reinforcement, representation learning and their interplays, e.g. enabling [language models to act in interactive games](#CALM) or [game agents to evolve communications resembling language](#EC).  -->
-<!-- The vision is to connect general-purpose representations (language) and general-purpose task-solving (RL) for challenging problems requiring [semantic](#Blindfold) inductive bias and flexible adaption/[exploration](#XTX). -->
+
+(last updated: Nov 2022)
