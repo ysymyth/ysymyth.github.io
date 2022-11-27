@@ -21,6 +21,7 @@ Five recent papers:
     Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
     [paper](https://arxiv.org/abs/2210.03629) |
     [code](https://github.com/ysymyth/ReAct) |
+    [project](https://react-lm.github.io) |
     [Google AI blogpost](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)
     
 - **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents** <br>
