@@ -96,6 +96,7 @@ To contact me, click the paper plane, which is a language grounding problem.
 
 
 # Selected Recent Readings
+* Midnight at the Pera Palace: The Birth of Modern Istanbul (Charles King)
 * Istanbul—Hatıralar ve Şehir (Orhan Pamuk)
 * Killing Kennedy: The End of Camelot (Bill O'Reilly, Martin Dugard)
 * The Linguistics Wars (Randy Allen Harris)
