@@ -15,8 +15,7 @@ In my life, I like reading, basketball, pool, travel, and rap.
 
 To contact me, click the paper plane, which is a language grounding problem.
 
-# Selected Papers
-Five recent papers:
+# Selected Recent Papers
 - **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
     Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
     [paper](https://arxiv.org/abs/2210.03629) |
@@ -96,8 +95,7 @@ Five recent papers:
     [project](http://3dsdn.csail.mit.edu) -->
 
 
-# Selected Readings
-Five recent readings:
+# Selected Recent Readings
 * Istanbul—Hatıralar ve Şehir (Orhan Pamuk)
 * Killing Kennedy: The End of Camelot (Bill O'Reilly, Martin Dugard)
 * The Linguistics Wars (Randy Allen Harris)
