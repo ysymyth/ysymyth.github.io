@@ -9,7 +9,7 @@ permalink: /index.html
 I am a fourth-year Ph.D. student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 Previously, I graduated from Yao Class at Tsinghua University.
 
-In my work, I build autonomous language agents to interact with the world, e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), answer questions and verify facts with a Wikipedia API ([ReAct](https://arxiv.org/abs/2210.03629)). Compared to language models that generate generic text, language agents that generate actions unlock infinite applications beyond sequence transduction, as well as opportunities to learn language via [exploration](https://arxiv.org/abs/2103.13552) rather than fixed and pre-selected text corpora.
+In my work, I build language agents to interact with the world, e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), answer questions and verify facts with a Wikipedia API ([ReAct](https://arxiv.org/abs/2210.03629)).
 
 In my life, I like reading, basketball, pool, travel, and rap. 
 
