@@ -18,6 +18,7 @@ To contact me, click the paper plane, which is a language grounding problem.
 # Some Recent Papers
 - **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
     Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
+    ICLR 2023 (top 5%) <br>
     [paper](https://arxiv.org/abs/2210.03629) |
     [code](https://github.com/ysymyth/ReAct) |
     [project](https://react-lm.github.io) |
