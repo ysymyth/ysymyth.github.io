@@ -18,7 +18,7 @@ To contact me, click the paper plane, which is a language grounding problem.
 # Some Recent Papers
 - **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
     Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
-    ICLR 2023 (top 5%) <br>
+    ICLR 2023 (Oral) <br>
     [paper](https://arxiv.org/abs/2210.03629) |
     [code](https://github.com/ysymyth/ReAct) |
     [project](https://react-lm.github.io) |
@@ -30,7 +30,8 @@ To contact me, click the paper plane, which is a language grounding problem.
     [paper](https://arxiv.org/abs/2207.01206) | 
     [code](https://github.com/princeton-nlp/WebShop) | 
     [project](https://webshop-pnlp.github.io) | 
-    [demo](https://webshop-pnlp.github.io/#demo)
+    [demo](https://webshop-pnlp.github.io/#demo) |
+    [Quanta Magazine](https://www.quantamagazine.org/machines-learn-better-if-we-teach-them-the-basics-20230201/)
 
 <!-- - **TVShowGuess: Character Comprehension in Stories as Speaker Guessing** <br>
     Yisi Sang\*, Xiangyang Mou\*, Mo Yu\*, Shunyu Yao, Jing Li, Jeffrey Stanton <br>
@@ -97,13 +98,9 @@ To contact me, click the paper plane, which is a language grounding problem.
 
 
 # Some Recent Readings
-* Midnight at the Pera Palace: The Birth of Modern Istanbul (Charles King)
-* Istanbul—Hatıralar ve Şehir (Orhan Pamuk)
-* Killing Kennedy: The End of Camelot (Bill O'Reilly, Martin Dugard)
+* The Search (John Battelle)
 * The Linguistics Wars (Randy Allen Harris)
-* Friends, Lovers, and the Big Terrible Thing (Matthew Perry)
-* What Babies Know (Elizabeth Spelke)
+* Leadership: In Turbulent Times (Doris Kearns Goodwin)
 
 
-
-(last updated: Nov 2022)
+(last updated: Mar 2023)
