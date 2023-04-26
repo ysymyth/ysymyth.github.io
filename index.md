@@ -9,16 +9,17 @@ permalink: /index.html
 I am a fourth-year Ph.D. student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 Previously, I graduated from Yao Class at Tsinghua University.
 
-In my work, I build language agents to interact with the world, e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), answer questions and verify facts with a Wikipedia API ([ReAct](https://arxiv.org/abs/2210.03629)).
+In my work, I build language agents to interact with the (digital) world, e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), answer questions and verify facts with a Wikipedia API ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [act with any tool for any task with emergent reasoning](https://blog.langchain.dev/agents-round/).
 
 In my life, I like reading, basketball, pool, travel, and rap. 
 
+I'm happy to chat about research (have lots of ideas too busy to try out) or other things (if interesting enough).
 To contact me, click the paper plane, which is a language grounding problem.
 
 # Some Recent Papers
 - **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
     Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
-    ICLR 2023 (Oral) <br>
+    ICLR 2023 (Oral top 5%) <br>
     [paper](https://arxiv.org/abs/2210.03629) |
     [code](https://github.com/ysymyth/ReAct) |
     [project](https://react-lm.github.io) |
@@ -61,13 +62,13 @@ To contact me, click the paper plane, which is a language grounding problem.
     [paper](https://arxiv.org/abs/2105.11115) | 
     [code](https://github.com/princeton-nlp/dyck-transformer) 
 
- - **Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents** <br>
+<!--  - **Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents** <br>
     Shunyu Yao, Karthik Narasimhan, Matthew Hausknecht <br>
     NAACL 2021 <br>
     [paper](https://arxiv.org/abs/2103.13552) | 
     [code](https://github.com/princeton-nlp/blindfold-textgame) |
     [project](https://blindfolded.cs.princeton.edu) | 
-    [Microsoft Research blogpost](https://www.microsoft.com/en-us/research/blog/building-stronger-semantic-understanding-into-text-game-reinforcement-learning-agents/)
+    [Microsoft Research blogpost](https://www.microsoft.com/en-us/research/blog/building-stronger-semantic-understanding-into-text-game-reinforcement-learning-agents/) -->
 
 - **Keep CALM and Explore: Language Models for Action Generation in Text-based Games** <br>
     Shunyu Yao, Rohan Rao, Matthew Hausknecht, Karthik Narasimhan <br>
@@ -97,10 +98,30 @@ To contact me, click the paper plane, which is a language grounding problem.
     [project](http://3dsdn.csail.mit.edu) -->
 
 
+# Some Recent Talks (Not Job Talk Yet!)
+- **Towards Autonomous Language Agents**
+    - DeepMind, London, Apr 2023
+    - EPFL NLP Group, Lausanne, Mar 2023
+    - Berekley NLP Group, Berekley, Mar 2023
+    - OpenAI, San Francisco, Mar 2023
+    - Adept AI, San Francisco, Mar 2023
+- **Re-thinking Reinforcement Learning in the Era of Large Language Models**
+    - Jane Street, New York, Apr 2023
+- **ReAct: Synergizing Reasoning and Acting in Language Models**
+    - EMNLP EvoNLP & NILLI Workshops, Abu Dhabi, Dec 2022
+    - NeurIPS FMDM Workshop, New Orleans, Nov 2022
+- **Towards Human-like Language Models**
+    - Princeton Cognitive Science Colloquium, Princeton, Nov 2022
+- **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**
+    - UW NLP Group, Seattle, July 2022
+
 # Some Recent Readings
+* 西方语言学史 （姚小平）
+* 置身事内 （兰小欢）
+* A Simpler Life (The School of Life)
 * The Search (John Battelle)
-* The Linguistics Wars (Randy Allen Harris)
 * Leadership: In Turbulent Times (Doris Kearns Goodwin)
+<!-- * The Linguistics Wars (Randy Allen Harris) -->
 
 
-(last updated: Mar 2023)
+(last updated: Apr 2023)
