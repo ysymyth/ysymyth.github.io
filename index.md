@@ -9,7 +9,7 @@ permalink: /index.html
 I am a fourth-year Ph.D. student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 Previously, I graduated from Yao Class at Tsinghua University.
 
-In my work, I build language agents to interact with the (digital) world, e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), answer questions and verify facts with a Wikipedia API ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [act with any tool for any task with emergent reasoning](https://blog.langchain.dev/agents-round/).
+In my work, I build language agents to interact with the world, e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), navigate Wikipedia to reason ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [act with any tool for any task](https://blog.langchain.dev/agents-round/).
 
 In my life, I like reading, basketball, pool, travel, and rap. 
 
@@ -98,8 +98,8 @@ To contact me, click the paper plane, which is a language grounding problem.
     [project](http://3dsdn.csail.mit.edu) -->
 
 
-# Some Recent Talks (Not Job Talk Yet!)
-- **Towards Autonomous Language Agents**
+# Some Recent Talks 
+- **Towards Autonomous Language Agents** 
     - DeepMind, London, Apr 2023
     - EPFL NLP Group, Lausanne, Mar 2023
     - Berekley NLP Group, Berekley, Mar 2023
@@ -113,7 +113,7 @@ To contact me, click the paper plane, which is a language grounding problem.
 - **Towards Human-like Language Models**
     - Princeton Cognitive Science Colloquium, Princeton, Nov 2022
 - **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**
-    - UW NLP Group, Seattle, July 2022
+    - University of Washington, Seattle, July 2022
 
 # Some Recent Readings
 * 西方语言学史 （姚小平）
