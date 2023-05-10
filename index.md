@@ -13,7 +13,7 @@ In my work, I build language agents to interact with the world, e.g. play text g
 
 In my life, I like reading, basketball, pool, travel, and rap. 
 
-I'm happy to chat about research (have lots of ideas too busy to try out) or other things (if interesting enough).
+I'm happy to chat about research!
 To contact me, click the paper plane, which is a language grounding problem.
 
 # Some Recent Papers
