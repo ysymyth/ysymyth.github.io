@@ -9,7 +9,9 @@ permalink: /index.html
 I am a Ph.D. student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 Previously, I graduated from Yao Class at Tsinghua University.
 
-In my work, I build language agents to interact with the world, e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), call Wikipedia APIs to answer questions ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [reason and act with any tool for any task without any learning example](https://blog.langchain.dev/agents-round/).
+In my work, I build language agents to interact with the world (e.g. CALM, WebShop, ReAct, Reflexion).
+
+<!-- e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), call Wikipedia APIs to answer questions ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [reason and act with any tool for any task without any learning example](https://blog.langchain.dev/agents-round/). -->
 
 In my life, I like reading, basketball, pool, travel, and rap. 
 
@@ -25,6 +27,12 @@ I would appreciate (annoynomous) feedback [here](https://www.admonymous.co/ysymy
     [paper](https://arxiv.org/abs/2305.15098) |
     [code](https://github.com/michaelwilliamtang/referral-augment) |
     [tweet](https://twitter.com/ShunyuYao12/status/1661340889724100611)
+
+- **Reflexion: Language Agents with Verbal Reinforcement Learning** <br>
+    Noah Shinn, Federico Cassano, Beck Labash, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao <br>
+    [paper](https://arxiv.org/abs/2303.11366) |
+    [code](https://github.com/noahshinn024/reflexion) |
+    [tweet](https://twitter.com/ShunyuYao12/status/1661875632387641345)
 
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** <br>
     Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan <br>
