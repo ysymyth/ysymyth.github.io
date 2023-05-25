@@ -9,14 +9,14 @@ permalink: /index.html
 I am a Ph.D. student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 Previously, I graduated from Yao Class at Tsinghua University.
 
-In my work, I build language agents to interact with the world, e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), navigate Wikipedia to answer questions and verify facts ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [act with any tool for any task](https://blog.langchain.dev/agents-round/).
+In my work, I build language agents to interact with the world, e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), call Wikipedia APIs to answer questions ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [reason and act with any tool for any task without any learning example](https://blog.langchain.dev/agents-round/).
 
 In my life, I like reading, basketball, pool, travel, and rap. 
 
 <!-- To contact me, click the paper plane, which is a language grounding problem.
  -->
  
-Please give me (annoynomous) feedback [here](https://www.admonymous.co/ysymyth), thanks in advance!
+I would appreciate (annoynomous) feedback [here](https://www.admonymous.co/ysymyth) about anything!
 
 # Recent Papers
 
@@ -140,12 +140,12 @@ Please give me (annoynomous) feedback [here](https://www.admonymous.co/ysymyth),
     - University of Washington, Seattle, July 2022
 
 # Recent Readings
-<!-- * 西方语言学史 （姚小平） -->
-<!-- * 置身事内 （兰小欢） -->
-* 安东尼·高迪 （dosde）
-<!-- * A Simpler Life (The School of Life) -->
+* 西方语言学史 （姚小平）
+* 置身事内 （兰小欢）
+* Antoni Gaudí（dosde）
+* A Simpler Life (The School of Life)
 * The Search (John Battelle)
-<!-- * Leadership: In Turbulent Times (Doris Kearns Goodwin) -->
+* Leadership: In Turbulent Times (Doris Kearns Goodwin)
 <!-- * The Linguistics Wars (Randy Allen Harris) -->
 
 
