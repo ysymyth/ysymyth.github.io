@@ -9,7 +9,7 @@ permalink: /index.html
 I am a Ph.D. student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 Previously, I graduated from Yao Class at Tsinghua University.
 
-In my work, I build language agents to interact with the world (e.g. CALM, WebShop, ReAct, Reflexion).
+In my work, I build language agents (e.g. [CALM](https://arxiv.org/abs/2010.02903), [WebShop](https://arxiv.org/abs/2207.01206), [ReAct](https://arxiv.org/abs/2210.03629), [Reflexion](https://arxiv.org/abs/2303.11366), [ToT](https://arxiv.org/abs/2305.10601)) to interact with internal and external worlds, via reasoning and acting.
 
 <!-- e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), call Wikipedia APIs to answer questions ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [reason and act with any tool for any task without any learning example](https://blog.langchain.dev/agents-round/). -->
 
@@ -18,7 +18,7 @@ In my life, I like reading, basketball, pool, travel, and rap.
 <!-- To contact me, click the paper plane, which is a language grounding problem.
  -->
  
-I would appreciate (annoynomous) feedback [here](https://www.admonymous.co/ysymyth) about anything!
+I would appreciate (annoynomous) [feedback](https://www.admonymous.co/ysymyth) about anything!
 
 # Recent Papers
 
@@ -66,13 +66,13 @@ I would appreciate (annoynomous) feedback [here](https://www.admonymous.co/ysymy
     [code](https://github.com/YisiSang/TVSHOWGUESS)
  -->
 
-- **Linking Emergent and Natural Languages via Corpus Transfer** <br>
+<!-- - **Linking Emergent and Natural Languages via Corpus Transfer** <br>
     Shunyu Yao, Mo Yu, Yang Zhang, Karthik Narasimhan, Joshua Tenenbaum, Chuang Gan <br>
     ICLR 2022 (Spotlight) <br>
     [paper](http://arxiv.org/abs/2203.13344) | 
     [code](https://github.com/ysymyth/ec-nl) |
     [tweet](https://twitter.com/ShunyuYao12/status/1518774718639181824)
-
+ -->
 <!-- 
 - **Multi-Stage Episodic Control for Strategic Exploration in Text Games** <br>
     Jens Tuyls, Shunyu Yao, Sham Kakade, Karthik Narasimhan <br>
@@ -82,13 +82,13 @@ I would appreciate (annoynomous) feedback [here](https://www.admonymous.co/ysymy
     [project](https://sites.google.com/princeton.edu/xtx)
 
  -->
- - **Self-Attention Networks Can Process Bounded Hierarchical Languages** <br>
+<!--  - **Self-Attention Networks Can Process Bounded Hierarchical Languages** <br>
     Shunyu Yao, Binghui Peng, Christos Papadimitriou, Karthik Narasimhan <br>
     ACL 2021 <br>
     [paper](https://arxiv.org/abs/2105.11115) | 
     [code](https://github.com/princeton-nlp/dyck-transformer) |
     [tweet](https://twitter.com/ShunyuYao12/status/1397047887763099650) | 
-    [AI2 NLP Highlights Podcast](https://soundcloud.com/nlp-highlights/129-transformers-and-hierarchical-structure-with-shunyu-yao?utm_source=allenai.org&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fnlp-highlights%252F129-transformers-and-hierarchical-structure-with-shunyu-yao)
+    [AI2 NLP Highlights Podcast](https://soundcloud.com/nlp-highlights/129-transformers-and-hierarchical-structure-with-shunyu-yao?utm_source=allenai.org&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fnlp-highlights%252F129-transformers-and-hierarchical-structure-with-shunyu-yao) -->
     
 
 <!--  - **Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents** <br>
@@ -99,12 +99,12 @@ I would appreciate (annoynomous) feedback [here](https://www.admonymous.co/ysymy
     [project](https://blindfolded.cs.princeton.edu) | 
     [Microsoft Research blogpost](https://www.microsoft.com/en-us/research/blog/building-stronger-semantic-understanding-into-text-game-reinforcement-learning-agents/) -->
 
-- **Keep CALM and Explore: Language Models for Action Generation in Text-based Games** <br>
+<!-- - **Keep CALM and Explore: Language Models for Action Generation in Text-based Games** <br>
     Shunyu Yao, Rohan Rao, Matthew Hausknecht, Karthik Narasimhan <br>
     EMNLP 2020 <br>
     [paper](https://arxiv.org/abs/2010.02903) | 
     [code](https://github.com/princeton-nlp/calm-textgame) | 
-    [tweet](https://twitter.com/ShunyuYao12/status/1316083890604388353) 
+    [tweet](https://twitter.com/ShunyuYao12/status/1316083890604388353)  -->
 
 <!-- - **The Fine Structure of Surprise in Intuitive Physics: When, Why, and How Much?** <br>
     Kevin Smith, Lingjie Mei, Shunyu Yao, Jiajun Wu, Elizabeth Spelke, Joshua Tenenbaum, Tomer Ullman <br>
@@ -129,8 +129,6 @@ I would appreciate (annoynomous) feedback [here](https://www.admonymous.co/ysymy
 
 
 # Recent Talks 
-- **LangChain Agents Webinar**
-    - [Online](https://www.youtube.com/watch?v=1gRlCjy18m4), Apr 2023
 - **Towards Autonomous Language Agents** 
     - DeepMind, London, Apr 2023
     - EPFL NLP Group, Lausanne, Mar 2023
@@ -149,7 +147,7 @@ I would appreciate (annoynomous) feedback [here](https://www.admonymous.co/ysymy
 
 # Recent Readings
 * 西方语言学史 （姚小平）
-* 置身事内 （兰小欢）
+<!-- * 置身事内 （兰小欢） -->
 * Antoni Gaudí（dosde）
 * A Simpler Life (The School of Life)
 * The Search (John Battelle)
