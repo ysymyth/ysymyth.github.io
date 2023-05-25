@@ -6,22 +6,38 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 
-I am a fourth-year Ph.D. student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
+I am a Ph.D. student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 Previously, I graduated from Yao Class at Tsinghua University.
 
-In my work, I build language agents to interact with the world, e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), navigate Wikipedia to reason ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [act with any tool for any task](https://blog.langchain.dev/agents-round/).
+In my work, I build language agents to interact with the world, e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), navigate Wikipedia to answer questions and verify facts ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [act with any tool for any task](https://blog.langchain.dev/agents-round/).
 
 In my life, I like reading, basketball, pool, travel, and rap. 
 
-I'm happy to chat about research!
-To contact me, click the paper plane, which is a language grounding problem.
+<!-- To contact me, click the paper plane, which is a language grounding problem.
+ -->
+ 
+Please give me (annoynomous) feedback [here](https://www.admonymous.co/ysymyth), thanks in advance!
 
-# Some Recent Papers
+# Recent Papers
+
+- **Referral Augmentation for Zero-Shot Information Retrieval** <br>
+    Michael Tang, Shunyu Yao, John Yang, Karthik Narasimhan <br>
+    [paper](https://arxiv.org/abs/2305.15098) |
+    [code](https://github.com/michaelwilliamtang/referral-augment) |
+    [tweet](https://twitter.com/ShunyuYao12/status/1661340889724100611)
+
+- **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** <br>
+    Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan <br>
+    [paper](https://arxiv.org/abs/2305.10601) |
+    [code](https://github.com/ysymyth/tree-of-thought-llm) |
+    [tweet](https://twitter.com/ShunyuYao12/status/1659357547474681857)
+    
 - **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
     Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
     ICLR 2023 (Oral top 5%) <br>
     [paper](https://arxiv.org/abs/2210.03629) |
     [code](https://github.com/ysymyth/ReAct) |
+    [tweet](https://twitter.com/ShunyuYao12/status/1579475607402217472) |
     [project](https://react-lm.github.io) |
     [Google AI blogpost](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)
     
@@ -30,6 +46,7 @@ To contact me, click the paper plane, which is a language grounding problem.
     NeurIPS 2022 <br>
     [paper](https://arxiv.org/abs/2207.01206) | 
     [code](https://github.com/princeton-nlp/WebShop) | 
+    [tweet](https://twitter.com/ShunyuYao12/status/1546220013186596864) |
     [project](https://webshop-pnlp.github.io) | 
     [demo](https://webshop-pnlp.github.io/#demo) |
     [Quanta Magazine](https://www.quantamagazine.org/machines-learn-better-if-we-teach-them-the-basics-20230201/)
@@ -45,7 +62,8 @@ To contact me, click the paper plane, which is a language grounding problem.
     Shunyu Yao, Mo Yu, Yang Zhang, Karthik Narasimhan, Joshua Tenenbaum, Chuang Gan <br>
     ICLR 2022 (Spotlight) <br>
     [paper](http://arxiv.org/abs/2203.13344) | 
-    [code](https://github.com/ysymyth/ec-nl)
+    [code](https://github.com/ysymyth/ec-nl) |
+    [tweet](https://twitter.com/ShunyuYao12/status/1518774718639181824)
 
 <!-- 
 - **Multi-Stage Episodic Control for Strategic Exploration in Text Games** <br>
@@ -60,7 +78,10 @@ To contact me, click the paper plane, which is a language grounding problem.
     Shunyu Yao, Binghui Peng, Christos Papadimitriou, Karthik Narasimhan <br>
     ACL 2021 <br>
     [paper](https://arxiv.org/abs/2105.11115) | 
-    [code](https://github.com/princeton-nlp/dyck-transformer) 
+    [code](https://github.com/princeton-nlp/dyck-transformer) |
+    [tweet](https://twitter.com/ShunyuYao12/status/1397047887763099650) | 
+    [AI2 NLP Highlights Podcast](https://soundcloud.com/nlp-highlights/129-transformers-and-hierarchical-structure-with-shunyu-yao?utm_source=allenai.org&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fnlp-highlights%252F129-transformers-and-hierarchical-structure-with-shunyu-yao)
+    
 
 <!--  - **Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents** <br>
     Shunyu Yao, Karthik Narasimhan, Matthew Hausknecht <br>
@@ -74,7 +95,8 @@ To contact me, click the paper plane, which is a language grounding problem.
     Shunyu Yao, Rohan Rao, Matthew Hausknecht, Karthik Narasimhan <br>
     EMNLP 2020 <br>
     [paper](https://arxiv.org/abs/2010.02903) | 
-    [code](https://github.com/princeton-nlp/calm-textgame)
+    [code](https://github.com/princeton-nlp/calm-textgame) | 
+    [tweet](https://twitter.com/ShunyuYao12/status/1316083890604388353) 
 
 <!-- - **The Fine Structure of Surprise in Intuitive Physics: When, Why, and How Much?** <br>
     Kevin Smith, Lingjie Mei, Shunyu Yao, Jiajun Wu, Elizabeth Spelke, Joshua Tenenbaum, Tomer Ullman <br>
@@ -98,7 +120,9 @@ To contact me, click the paper plane, which is a language grounding problem.
     [project](http://3dsdn.csail.mit.edu) -->
 
 
-# Some Recent Talks 
+# Recent Talks 
+- **LangChain Agents Webinar**
+    - [Online](https://www.youtube.com/watch?v=1gRlCjy18m4), Apr 2023
 - **Towards Autonomous Language Agents** 
     - DeepMind, London, Apr 2023
     - EPFL NLP Group, Lausanne, Mar 2023
@@ -115,13 +139,14 @@ To contact me, click the paper plane, which is a language grounding problem.
 - **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**
     - University of Washington, Seattle, July 2022
 
-# Some Recent Readings
-* 西方语言学史 （姚小平）
-* 置身事内 （兰小欢）
-* A Simpler Life (The School of Life)
+# Recent Readings
+<!-- * 西方语言学史 （姚小平） -->
+<!-- * 置身事内 （兰小欢） -->
+* 安东尼·高迪 （dosde）
+<!-- * A Simpler Life (The School of Life) -->
 * The Search (John Battelle)
-* Leadership: In Turbulent Times (Doris Kearns Goodwin)
+<!-- * Leadership: In Turbulent Times (Doris Kearns Goodwin) -->
 <!-- * The Linguistics Wars (Randy Allen Harris) -->
 
 
-(last updated: Apr 2023)
+(last updated: May 2023)
