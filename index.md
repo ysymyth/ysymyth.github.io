@@ -141,6 +141,7 @@ I would appreciate (annoynomous) [feedback](https://www.admonymous.co/ysymyth) a
 - **Re-thinking Reinforcement Learning in the Era of Large Language Models**
     - Jane Street, New York, Apr 2023
 - **ReAct: Synergizing Reasoning and Acting in Language Models**
+    - ICLR, Kigali, May 2023
     - EMNLP EvoNLP & NILLI Workshops, Abu Dhabi, Dec 2022
     - NeurIPS FMDM Workshop, New Orleans, Nov 2022
 - **Towards Human-like Language Models**
