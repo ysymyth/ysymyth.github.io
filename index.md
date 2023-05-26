@@ -21,7 +21,7 @@ In my life, I like reading, basketball, pool, travel, and rap.
 I would appreciate (annoynomous) [feedback](https://www.admonymous.co/ysymyth) about anything!
 
 # Recent News
-- I attended LangChain Agent Webinar ([long YouTube video](https://www.youtube.com/watch?v=1gRlCjy18m4) and [short Twitter summary](https://twitter.com/jh_damm/status/1646233627661828109)).
+- Apr 2023: I attended LangChain Agent Webinar ([long YouTube video](https://www.youtube.com/watch?v=1gRlCjy18m4) and [short Twitter summary](https://twitter.com/jh_damm/status/1646233627661828109)).
 
 # Recent Papers
 
