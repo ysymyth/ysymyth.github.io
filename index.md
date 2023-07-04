@@ -27,6 +27,12 @@ I would appreciate (annoynomous) [feedback](https://www.admonymous.co/ysymyth) a
 
 # Recent Papers
 
+- **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** <br>
+    John Yang*, Akshara Prabhakar*, Karthik Narasimhan, Shunyu Yao <br>
+    [paper](https://arxiv.org/abs/2306.14898) |
+    [code](https://github.com/princeton-nlp/intercode) |
+    [tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066?s=20)
+  
 - **Referral Augmentation for Zero-Shot Information Retrieval** <br>
     Michael Tang, Shunyu Yao, John Yang, Karthik Narasimhan <br>
     [paper](https://arxiv.org/abs/2305.15098) |
@@ -153,12 +159,13 @@ I would appreciate (annoynomous) [feedback](https://www.admonymous.co/ysymyth) a
 
 # Recent Readings
 * 西方语言学史 （姚小平）
-<!-- * 置身事内 （兰小欢） -->
+* The Art of Doing Science and Engineering: Learning to Learn (Richard Hamming)
 * Antoni Gaudí（dosde）
 * A Simpler Life (The School of Life)
 * The Search (John Battelle)
-* Leadership: In Turbulent Times (Doris Kearns Goodwin)
+<!-- * Leadership: In Turbulent Times (Doris Kearns Goodwin) -->
+<!-- * 置身事内 （兰小欢） -->
 <!-- * The Linguistics Wars (Randy Allen Harris) -->
 
 
-(last updated: May 2023)
+(last updated: July 2023)
