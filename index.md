@@ -28,10 +28,11 @@ I would appreciate (annoynomous) [feedback](https://www.admonymous.co/ysymyth) a
 # Recent Papers
 
 - **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** <br>
-    John Yang*, Akshara Prabhakar*, Karthik Narasimhan, Shunyu Yao <br>
+    John Yang\*, Akshara Prabhakar\*, Karthik Narasimhan, Shunyu Yao <br>
     [paper](https://arxiv.org/abs/2306.14898) |
     [code](https://github.com/princeton-nlp/intercode) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066?s=20)
+    [tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066?s=20) |
+    [project](https://intercode-benchmark.github.io)
   
 - **Referral Augmentation for Zero-Shot Information Retrieval** <br>
     Michael Tang, Shunyu Yao, John Yang, Karthik Narasimhan <br>
