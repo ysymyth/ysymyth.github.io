@@ -14,16 +14,10 @@ In my work, I build language agents (e.g. [CALM](https://arxiv.org/abs/2010.0290
 <!-- e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), call Wikipedia APIs to answer questions ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [reason and act with any tool for any task without any learning example](https://blog.langchain.dev/agents-round/). -->
 
 In my life, I like reading, basketball, pool, travel, and rap. 
-
-<!-- To contact me, click the paper plane, which is a language grounding problem.
- -->
  
-I would appreciate (annoynomous) [feedback](https://www.admonymous.co/ysymyth) about anything!
+I would appreciate (anonymous) [feedback](https://www.admonymous.co/ysymyth) about anything!
 
-# Recent News
-- May 2023: There has been a [malicious, non-runnable, probably ChatGPT-generated ToT repo](https://github.com/kyegomez/tree-of-thoughts) that has more stars than [the official ToT repo](https://github.com/ysymyth/tree-of-thought-llm). I have explained the situation [here](https://github.com/ysymyth/tree-of-thought-llm). Please de-star the malicious repo and star the official repo to prevent other people from be misled and wasting time, thanks!
 
-- Apr 2023: I attended LangChain Agent Webinar ([long YouTube video](https://www.youtube.com/watch?v=1gRlCjy18m4) and [short Twitter summary](https://twitter.com/jh_damm/status/1646233627661828109)).
 
 # Recent Papers
 
