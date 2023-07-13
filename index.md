@@ -135,6 +135,8 @@ I would appreciate (anonymous) [feedback](https://www.admonymous.co/ysymyth) abo
 
 
 # Recent Talks 
+- **Tree of Thoughts: System 2 Reasoning, Tree Search, and Language Agents**
+    - Google DeepMind, Reasoning Team, July 2023
 - **Towards Autonomous Language Agents** 
     - DeepMind, London, Apr 2023
     - EPFL NLP Group, Lausanne, Mar 2023
