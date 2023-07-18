@@ -21,36 +21,44 @@ I would appreciate (anonymous) [feedback](https://www.admonymous.co/ysymyth) abo
 
 # Recent Papers
 
+- **COLLIE: Systematic Construction of Constrained Text Generation Tasks** <br>
+    Shunyu Yao\*, Howard Chen\*, Austin Wang\*, Runzhe Yang\*, Karthik Narasimhan <br>
+    [paper](https://arxiv.org/abs/2307.08689) |
+    [repo](https://github.com/princeton-nlp/Collie) |
+    [tweet]() |
+    [project](https://collie-benchmark.github.io)
+
+  
 - **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** <br>
     John Yang\*, Akshara Prabhakar\*, Karthik Narasimhan, Shunyu Yao <br>
     [paper](https://arxiv.org/abs/2306.14898) |
-    [code](https://github.com/princeton-nlp/intercode) |
+    [repo](https://github.com/princeton-nlp/intercode) |
     [tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066?s=20) |
     [project](https://intercode-benchmark.github.io)
   
 - **Referral Augmentation for Zero-Shot Information Retrieval** <br>
     Michael Tang, Shunyu Yao, John Yang, Karthik Narasimhan <br>
     [paper](https://arxiv.org/abs/2305.15098) |
-    [code](https://github.com/michaelwilliamtang/referral-augment) |
+    [repo](https://github.com/michaelwilliamtang/referral-augment) |
     [tweet](https://twitter.com/ShunyuYao12/status/1661340889724100611)
 
 - **Reflexion: Language Agents with Verbal Reinforcement Learning** <br>
     Noah Shinn, Federico Cassano, Beck Labash, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao <br>
     [paper](https://arxiv.org/abs/2303.11366) |
-    [code](https://github.com/noahshinn024/reflexion) |
+    [repo](https://github.com/noahshinn024/reflexion) |
     [tweet](https://twitter.com/ShunyuYao12/status/1661875632387641345)
 
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** <br>
     Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan <br>
     [paper](https://arxiv.org/abs/2305.10601) |
-    [code](https://github.com/ysymyth/tree-of-thought-llm) |
+    [repo](https://github.com/ysymyth/tree-of-thought-llm) |
     [tweet](https://twitter.com/ShunyuYao12/status/1659357547474681857)
     
 - **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
     Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
     ICLR 2023 (Oral top 5%) <br>
     [paper](https://arxiv.org/abs/2210.03629) |
-    [code](https://github.com/ysymyth/ReAct) |
+    [repo](https://github.com/ysymyth/ReAct) |
     [tweet](https://twitter.com/ShunyuYao12/status/1579475607402217472) |
     [project](https://react-lm.github.io) |
     [Google AI blogpost](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)
@@ -59,7 +67,7 @@ I would appreciate (anonymous) [feedback](https://www.admonymous.co/ysymyth) abo
     Shunyu Yao\*, Howard Chen\*, John Yang, Karthik Narasimhan <br>
     NeurIPS 2022 <br>
     [paper](https://arxiv.org/abs/2207.01206) | 
-    [code](https://github.com/princeton-nlp/WebShop) | 
+    [repo](https://github.com/princeton-nlp/WebShop) | 
     [tweet](https://twitter.com/ShunyuYao12/status/1546220013186596864) |
     [project](https://webshop-pnlp.github.io) | 
     [demo](https://webshop-pnlp.github.io/#demo) |
