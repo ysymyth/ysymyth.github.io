@@ -143,7 +143,7 @@ I would appreciate (anonymous) [feedback](https://www.admonymous.co/ysymyth) abo
 
 
 # Recent Talks 
-- **Tree of Thoughts: System 2 Reasoning, Tree Search, and Language Agents**
+- [Tree of Thoughts: System 2 Reasoning, Tree Search, and Language Agents](https://docs.google.com/presentation/d/1FkANjhY9zyFXFQSpceKm5R9pklxmqvCa4oezgE64wWY/edit?usp=sharing)
     - Google DeepMind, Reasoning Team, July 2023
 - **Towards Autonomous Language Agents** 
     - DeepMind, London, Apr 2023
@@ -151,7 +151,7 @@ I would appreciate (anonymous) [feedback](https://www.admonymous.co/ysymyth) abo
     - Berekley NLP Group, Berekley, Mar 2023
     - OpenAI, San Francisco, Mar 2023
     - Adept AI, San Francisco, Mar 2023
-- **Re-thinking Reinforcement Learning in the Era of Large Language Models**
+- [Re-thinking Reinforcement Learning in the Era of Large Language Models](https://docs.google.com/presentation/d/1mlhFBRdzN3aXQ1kDCwxGFfnQdjnHr7Ou9DAhLk186Y0/edit?usp=sharing&resourcekey=0-MVtkY5wr6GD-Dm80Cvsruw)
     - Jane Street, New York, Apr 2023
 - **ReAct: Synergizing Reasoning and Acting in Language Models**
     - ICLR, Kigali, May 2023
