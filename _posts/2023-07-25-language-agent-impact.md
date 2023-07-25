@@ -9,7 +9,7 @@ While 2022 was the year that ignited the public awareness of language models lik
 
 
 <p align="center">
-    <iframe src="https://player.vimeo.com/video/749413832?h=15f094bbb9&title=0&byline=0&portrait=0" style="width:85%;height:85%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Adept-AI-Demo"></iframe>
+    <iframe src="https://player.vimeo.com/video/749413832?h=15f094bbb9&title=0&byline=0&portrait=0" style="position:absolute;top:0px;left:0px;width:90%;height:90%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Adept-AI-Demo"></iframe>
     <br>
     <span style="color:gray;font-size:14px">
 A demo of Adept ACT-1, a language agent that can navigate websites and perform tasks like shopping, booking flights, and more.
