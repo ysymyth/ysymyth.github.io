@@ -8,11 +8,13 @@ July 25, 2023 | Written by [Shunyu Yao](https://ysymyth.github.io) and [Karthik 
 While 2022 was the year that ignited the public awareness of language models like [ChatGPT](https://chat.openai.com), 2023 has witnessed the rise of language agents. Papers like [ReAct](https://arxiv.org/abs/2210.03629) and [Toolformers](https://arxiv.org/abs/2302.04761), along with frameworks like [LangChain](https://python.langchain.com/en/latest/) and [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins), have demonstrated that language models can be connected to webpages, software, tools and APIs, augmenting them with [computational](https://content.wolfram.com/uploads/sites/43/2023/03/sw032223img5.png) tools, and [custom](https://player.vimeo.com/video/811005934?h=29f8ba5270&badge=0&autopause=0&player_id=0&app_id=58479), [up-to-date](https://player.vimeo.com/video/810715483?h=7ee0ef3d57&badge=0&autopause=0&player_id=0&app_id=58479) information sources. This **ability to act and affect the world** also enables much broader applications beyond traditional language processing — for example, navigating websites to find information, controlling softwares like Excel, or coding interactively with execution feedback.
 
 
-
-<iframe src="https://player.vimeo.com/video/749413832?h=15f094bbb9&title=0&byline=0&portrait=0" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Adept-AI-Demo"></iframe><span style="color:gray;font-size:14px">
+<p align="center">
+    <iframe src="https://player.vimeo.com/video/749413832?h=15f094bbb9&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Adept-AI-Demo"></iframe>
+    <br>
+    <span style="color:gray;font-size:14px">
 A demo of Adept ACT-1, a language agent that can navigate websites and perform tasks like shopping, booking flights, and more.
-</span>
-
+    </span>
+</p>
 
 
 
