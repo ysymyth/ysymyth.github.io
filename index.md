@@ -6,12 +6,10 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 
-I am a Ph.D. student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
+I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 Previously, I graduated from Yao Class at Tsinghua University.
 
-In my work, I build **language agents** (e.g. [CALM](https://arxiv.org/abs/2010.02903), [ReAct](https://arxiv.org/abs/2210.03629), [Reflexion](https://arxiv.org/abs/2303.11366), [Tree of Thoughts](https://arxiv.org/abs/2305.10601)) to interact with internal and external worlds via reasoning and acting. I also build benchmarks (e.g. [WebShop](https://arxiv.org/abs/2207.01206), [InterCode](https://arxiv.org/abs/2306.14898), [Collie](https://arxiv.org/abs/2307.08689)) to develop and evaluate them. 
-
-<!-- e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), call Wikipedia APIs to answer questions ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [reason and act with any tool for any task without any learning example](https://blog.langchain.dev/agents-round/). -->
+In my work, I develop methods (e.g. [CALM](https://arxiv.org/abs/2010.02903), [ReAct](https://arxiv.org/abs/2210.03629), [Reflexion](https://arxiv.org/abs/2303.11366), [Tree of Thoughts](https://arxiv.org/abs/2305.10601)) and benchmarks (e.g. [WebShop](https://arxiv.org/abs/2207.01206), [InterCode](https://arxiv.org/abs/2306.14898), [Collie](https://arxiv.org/abs/2307.08689)) for **language agents** that interact with internal and external worlds, via reasoning and acting.
 
 In my life, I like reading, basketball, pool, travel, and rap. 
  
