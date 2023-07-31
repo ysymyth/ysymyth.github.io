@@ -9,19 +9,25 @@ permalink: /index.html
 I am a Ph.D. student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 Previously, I graduated from Yao Class at Tsinghua University.
 
-In my work, I build language agents (e.g. [CALM](https://arxiv.org/abs/2010.02903), [WebShop](https://arxiv.org/abs/2207.01206), [ReAct](https://arxiv.org/abs/2210.03629), [Reflexion](https://arxiv.org/abs/2303.11366), [ToT](https://arxiv.org/abs/2305.10601)) to interact with internal and external worlds, via reasoning and acting.
+In my work, I build **language agents** (e.g. [CALM](https://arxiv.org/abs/2010.02903), [ReAct](https://arxiv.org/abs/2210.03629), [Reflexion](https://arxiv.org/abs/2303.11366), [Tree of Thoughts](https://arxiv.org/abs/2305.10601)) to interact with internal and external worlds via reasoning and acting. I also build benchmarks (e.g. [WebShop](https://arxiv.org/abs/2207.01206), [InterCode](https://arxiv.org/abs/2306.14898), [Collie](https://arxiv.org/abs/2307.08689)) to develop and evaluate them. 
 
 <!-- e.g. play text games ([CALM](https://arxiv.org/abs/2010.02903)), shop online ([WebShop](https://arxiv.org/abs/2207.01206)), call Wikipedia APIs to answer questions ([ReAct](https://arxiv.org/abs/2210.03629)), or, based on the same idea, [reason and act with any tool for any task without any learning example](https://blog.langchain.dev/agents-round/). -->
 
 In my life, I like reading, basketball, pool, travel, and rap. 
  
-I would appreciate (anonymous) [feedback](https://www.admonymous.co/ysymyth) about anything!
+To anyone: I would appreciate (anonymous) [feedback](https://www.admonymous.co/ysymyth) about anything! 
 
+To students: feel free to email me (click the paper plane, a language grounding challenge) to schedule a chat about anything! I will dedicate 30min each week to this end, and priortize underrepresented groups.
+
+
+# Recent News
+- I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about the opportunities and risks of language agents! Comments welcome [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
+- I attended a [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4) hosted by LangChain about agents. Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).
 
 
 # Recent Papers
 
-- **COLLIE: Systematic Construction of Constrained Text Generation Tasks** <br>
+- **Collie: Systematic Construction of Constrained Text Generation Tasks** <br>
     Shunyu Yao\*, Howard Chen\*, Austin Wang\*, Runzhe Yang\*, Karthik Narasimhan <br>
     [paper](https://arxiv.org/abs/2307.08689) |
     [repo](https://github.com/princeton-nlp/Collie) |
@@ -163,14 +169,19 @@ I would appreciate (anonymous) [feedback](https://www.admonymous.co/ysymyth) abo
     - University of Washington, Seattle, July 2022
 
 # Recent Readings
-* 西方语言学史 （姚小平）
-* The Art of Doing Science and Engineering: Learning to Learn (Richard Hamming)
-* Antoni Gaudí（dosde）
-* A Simpler Life (The School of Life)
-* The Search (John Battelle)
+* Team of Rivals (Doris Goodwin)
+* The Art of Doing Science and Engineering (Richard Hamming)
+* What Babies Know (Elizabeth Spelke)
+* The Linguistics Wars (Randy Harris)
+
+
+<!-- * A Simpler Life (The School of Life)
+* The Search (John Battelle) -->
 <!-- * Leadership: In Turbulent Times (Doris Kearns Goodwin) -->
 <!-- * 置身事内 （兰小欢） -->
 <!-- * The Linguistics Wars (Randy Allen Harris) -->
+<!-- * Antoni Gaudí（dosde）-->
+<!-- * 西方语言学史 （姚小平）-->
 
 
 (last updated: July 2023)
