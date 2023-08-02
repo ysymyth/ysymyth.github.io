@@ -19,8 +19,9 @@ To students: feel free to email me (click the paper plane, a language grounding 
 
 
 # Recent News
-- I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about the opportunities and risks of language agents! Comments welcome [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
-- I attended a [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4) hosted by LangChain about agents. Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).
+- July 2023: I enjoyed teaching at [Princeton AI4ALL](https://ai4all.princeton.edu) ([Today Show feature](https://www.today.com/video/how-the-summer-program-ai4all-is-helping-reshape-the-future-189707845651))!
+- July 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about the opportunities and risks of language agents! Comments welcome [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
+- Apr 2023: I attended a [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4) hosted by LangChain about agents. Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).
 
 
 # Recent Papers
