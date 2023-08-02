@@ -9,7 +9,7 @@ permalink: /index.html
 I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 Previously, I graduated from Yao Class at Tsinghua University.
 
-In my work, I develop methods (e.g. [CALM](https://arxiv.org/abs/2010.02903), [ReAct](https://arxiv.org/abs/2210.03629), [Reflexion](https://arxiv.org/abs/2303.11366), [Tree of Thoughts](https://arxiv.org/abs/2305.10601)) and benchmarks (e.g. [WebShop](https://arxiv.org/abs/2207.01206), [InterCode](https://arxiv.org/abs/2306.14898), [Collie](https://arxiv.org/abs/2307.08689)) for **language agents** that interact with internal and external worlds, via reasoning and acting.
+In my work, I develop **language agents** (e.g. [CALM](https://arxiv.org/abs/2010.02903), [ReAct](https://arxiv.org/abs/2210.03629), [Reflexion](https://arxiv.org/abs/2303.11366), [Tree of Thoughts](https://arxiv.org/abs/2305.10601)) and their benchmarks (e.g. [WebShop](https://arxiv.org/abs/2207.01206), [InterCode](https://arxiv.org/abs/2306.14898), [Collie](https://arxiv.org/abs/2307.08689)).
 
 In my life, I like reading, basketball, pool, travel, and rap. 
  
@@ -19,9 +19,9 @@ To students: feel free to email me (click the paper plane, a language grounding 
 
 
 # Recent News
-- July 2023: I enjoyed teaching at [Princeton AI4ALL](https://ai4all.princeton.edu) ([Today Show feature](https://www.today.com/video/how-the-summer-program-ai4all-is-helping-reshape-the-future-189707845651))!
-- July 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about the opportunities and risks of language agents! Comments welcome [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
-- Apr 2023: I attended a [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4) hosted by LangChain about agents. Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).
+- July 2023: I enjoyed teaching at [Princeton AI4ALL](https://ai4all.princeton.edu)! Coverage [here](https://www.today.com/video/how-the-summer-program-ai4all-is-helping-reshape-the-future-189707845651).
+- July 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about opportunities and risks of language agents! Comment [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
+- Apr 2023: I attended LangChain's Agent [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4). Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).
 
 
 # Recent Papers
