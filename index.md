@@ -148,8 +148,10 @@ To students: feel free to schedule a chat about anything via email! I will dedic
 
 
 # Recent Talks 
+- [From Language Models to Language Agents](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf)
+    - Tsinghua University, Remote, Aug 2023
 - [Tree of Thoughts: System 2 Reasoning, Tree Search, and Language Agents](https://docs.google.com/presentation/d/1FkANjhY9zyFXFQSpceKm5R9pklxmqvCa4oezgE64wWY/edit?usp=sharing)
-    - Google DeepMind, Reasoning Team, July 2023
+    - Google DeepMind, Remote, July 2023
     - AI2, Seattle, August 2023
 - **Towards Autonomous Language Agents** 
     - DeepMind, London, Apr 2023
