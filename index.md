@@ -36,7 +36,7 @@ To students: feel free to schedule a chat about anything via email! I will dedic
 
   
 - **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** <br>
-    John Yang\*, Akshara Prabhakar\*, Karthik Narasimhan, Shunyu Yao <br>
+    John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao <br>
     [paper](https://arxiv.org/abs/2306.14898) |
     [repo](https://github.com/princeton-nlp/intercode) |
     [tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066?s=20) |
