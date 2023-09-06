@@ -9,7 +9,7 @@ permalink: /index.html
 I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 Previously, I graduated from Yao Class at Tsinghua University.
 
-In my work, I develop **language agents** (e.g. [CALM](https://arxiv.org/abs/2010.02903), [ReAct](https://arxiv.org/abs/2210.03629), [Reflexion](https://arxiv.org/abs/2303.11366), [Tree of Thoughts](https://arxiv.org/abs/2305.10601)) and their benchmarks (e.g. [WebShop](https://arxiv.org/abs/2207.01206), [InterCode](https://arxiv.org/abs/2306.14898), [Collie](https://arxiv.org/abs/2307.08689)).
+In my work, I develop language agents and their benchmarks.
 
 In my life, I like reading, basketball, pool, travel, and rap. 
  
@@ -19,7 +19,8 @@ To students: feel free to schedule a chat about anything via email! I will dedic
 
 
 # Recent News
-- Aug 2023: I gave a remote talk at Tsinghua summarizing our recent work in langauge agents (ReAct, Reflexion, ToT, WebShop, InterCode, Collie)! Chinese talk [here](https://www.bilibili.com/video/BV1ju4y1e7Em/?spm_id_from=333.999.0.0&vd_source=c835fafed8fc31d533fe23c54341983d), English slides [here](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf).
+- Sept 2023: Excited to release 🐨[CoLLA](https://arxiv.org/abs/2309.02427), a conceptual framework to systematize language agents!
+- Aug 2023: I gave a remote talk at Tsinghua (covering ReAct, Reflexion, ToT; WebShop, InterCode, Collie). Chinese talk [here](https://www.bilibili.com/video/BV1ju4y1e7Em), English slides [here](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf).
 - July 2023: I enjoyed teaching at [Princeton AI4ALL](https://ai4all.princeton.edu)! Coverage [here](https://www.today.com/video/how-the-summer-program-ai4all-is-helping-reshape-the-future-189707845651).
 - July 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about opportunities and risks of language agents! Comment [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
 - Apr 2023: I attended LangChain's Agent [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4). Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).
@@ -27,11 +28,17 @@ To students: feel free to schedule a chat about anything via email! I will dedic
 
 # Recent Papers
 
+- **Cognitive Architectures for Language Agents** <br>
+    Shunyu Yao\*, Theodore Sumers\*, Karthik Narasimhan, Thomas L. Griffiths <br>
+    [paper](https://arxiv.org/abs/2309.02427) |
+    [repo](https://github.com/ysymyth/awesome-language-agents) |
+    [tweet]()
+
 - **Collie: Systematic Construction of Constrained Text Generation Tasks** <br>
     Shunyu Yao\*, Howard Chen\*, Austin Wang\*, Runzhe Yang\*, Karthik Narasimhan <br>
     [paper](https://arxiv.org/abs/2307.08689) |
     [repo](https://github.com/princeton-nlp/Collie) |
-    [tweet]() |
+    [tweet](https://twitter.com/ShunyuYao12/status/1681315647018663936) |
     [project](https://collie-benchmark.github.io)
 
   
@@ -39,7 +46,7 @@ To students: feel free to schedule a chat about anything via email! I will dedic
     John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao <br>
     [paper](https://arxiv.org/abs/2306.14898) |
     [repo](https://github.com/princeton-nlp/intercode) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066?s=20) |
+    [tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066) |
     [project](https://intercode-benchmark.github.io)
   
 - **Referral Augmentation for Zero-Shot Information Retrieval** <br>
@@ -177,7 +184,6 @@ To students: feel free to schedule a chat about anything via email! I will dedic
 * What Babies Know (Elizabeth Spelke)
 * The Linguistics Wars (Randy Harris)
 
-
 <!-- * A Simpler Life (The School of Life)
 * The Search (John Battelle) -->
 <!-- * Leadership: In Turbulent Times (Doris Kearns Goodwin) -->
@@ -187,4 +193,4 @@ To students: feel free to schedule a chat about anything via email! I will dedic
 <!-- * 西方语言学史 （姚小平）-->
 
 
-(last updated: July 2023)
+(last updated: Sept 2023)
