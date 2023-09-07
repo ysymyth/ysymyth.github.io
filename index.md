@@ -32,7 +32,7 @@ To students: feel free to schedule a chat about anything via email! I will dedic
     Shunyu Yao\*, Theodore Sumers\*, Karthik Narasimhan, Thomas L. Griffiths <br>
     [paper](https://arxiv.org/abs/2309.02427) |
     [repo](https://github.com/ysymyth/awesome-language-agents) |
-    [tweet]()
+    [tweet](https://twitter.com/ShunyuYao12/status/1699396834983362690)
 
 - **Collie: Systematic Construction of Constrained Text Generation Tasks** <br>
     Shunyu Yao\*, Howard Chen\*, Austin Wang\*, Runzhe Yang\*, Karthik Narasimhan <br>
