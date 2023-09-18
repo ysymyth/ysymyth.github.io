@@ -7,15 +7,14 @@ permalink: /index.html
 <img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 
 I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
-Previously, I graduated from Yao Class at Tsinghua University.
 
-In my work, I develop language agents and their benchmarks.
+In my work, I develop, benchmark, and formalize language agents.
 
-In my life, I like reading, basketball, pool, travel, and rap. 
+In my life, I read, travel, and play basketball.
  
-To anyone: I would appreciate (anonymous) [feedback](https://www.admonymous.co/ysymyth) about anything! 
+To anyone: give me [feedback](https://www.admonymous.co/ysymyth) about anything! 
 
-To students: feel free to schedule a chat about anything via email! I will dedicate 30min each week to this end, and priortize underrepresented groups.
+To students: email to schedule a chat about anything! I will dedicate 30 minutes each week to this end and priortize underrepresented groups.
 
 
 # Recent News
