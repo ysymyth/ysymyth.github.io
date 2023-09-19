@@ -8,17 +8,17 @@ permalink: /index.html
 
 I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 
-In my work, I develop, benchmark, and formalize language agents.
+In my work, I [develop](https://arxiv.org/abs/2210.03629), [benchmark](https://arxiv.org/abs/2207.01206), and [conceptualize](https://arxiv.org/abs/2309.02427) language agents. I also study their [societal impact](https://princeton-nlp.github.io/language-agent-impact/).
 
-In my life, I read, travel, and play basketball.
+In my life, I read, travel, and play basketball. I also used to rap.
  
 To anyone: give me [feedback](https://www.admonymous.co/ysymyth) about anything! 
 
-To students: email to schedule a chat about anything! I will dedicate 30 minutes each week to this end and priortize underrepresented groups.
+To students: email me to schedule a chat about anything! I will dedicate 30 minutes each week to this end and priortize underrepresented groups.
 
 
 # Recent News
-- Sept 2023: Excited to release 🐨[CoLLA](https://arxiv.org/abs/2309.02427), a conceptual framework to systematize language agents!
+- Sept 2023: Excited to release 🐨[CoLLA](https://arxiv.org/abs/2309.02427), a conceptual framework to organize language agents and point out future directions!
 - Aug 2023: I gave a remote talk at Tsinghua (covering ReAct, Reflexion, ToT; WebShop, InterCode, Collie). Chinese talk [here](https://www.bilibili.com/video/BV1ju4y1e7Em), English slides [here](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf).
 - July 2023: I enjoyed teaching at [Princeton AI4ALL](https://ai4all.princeton.edu)! Coverage [here](https://www.today.com/video/how-the-summer-program-ai4all-is-helping-reshape-the-future-189707845651).
 - July 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about opportunities and risks of language agents! Comment [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
@@ -178,12 +178,15 @@ To students: email to schedule a chat about anything! I will dedicate 30 minutes
     - University of Washington, Seattle, July 2022
 
 # Recent Readings
+* Elon Musk (Walter Isaacson)
+* The Computer and the Brain (John von Neumann)
+* Automata Studies (Editted by C.E. Shannon and J. McCarthy)
 * Team of Rivals (Doris Goodwin)
-* The Art of Doing Science and Engineering (Richard Hamming)
-* What Babies Know (Elizabeth Spelke)
 * The Linguistics Wars (Randy Harris)
 
 <!-- * A Simpler Life (The School of Life)
+* What Babies Know (Elizabeth Spelke)
+* The Art of Doing Science and Engineering (Richard Hamming)
 * The Search (John Battelle) -->
 <!-- * Leadership: In Turbulent Times (Doris Kearns Goodwin) -->
 <!-- * 置身事内 （兰小欢） -->
