@@ -8,13 +8,13 @@ permalink: /index.html
 
 I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 
-In my work, I [develop](https://arxiv.org/abs/2210.03629), [benchmark](https://arxiv.org/abs/2207.01206), and [conceptualize](https://arxiv.org/abs/2309.02427) language agents. I also study their [societal impact](https://princeton-nlp.github.io/language-agent-impact/).
+In my work, I study [methods](https://arxiv.org/abs/2210.03629), [benchmarks](https://arxiv.org/abs/2207.01206), [abstractions](https://arxiv.org/abs/2309.02427), and  [societal impact](https://princeton-nlp.github.io/language-agent-impact/) of language agents.
 
-In my life, I read, travel, and play basketball. I also used to rap.
+In my life, I read, travel, rap, and play basketball.
  
 To anyone: give me [feedback](https://www.admonymous.co/ysymyth) about anything! 
 
-To students: email me to schedule a chat about anything! I will dedicate 30 minutes each week to this end and priortize underrepresented groups.
+To students: email me to schedule a chat about anything! I will dedicate 30min/week and priortize underrepresented groups.
 
 
 # Recent News
