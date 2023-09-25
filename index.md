@@ -8,7 +8,7 @@ permalink: /index.html
 
 I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 
-In my work, I study [methods](https://arxiv.org/abs/2210.03629), [benchmarks](https://arxiv.org/abs/2207.01206), [abstractions](https://arxiv.org/abs/2309.02427), and  [societal impact](https://princeton-nlp.github.io/language-agent-impact/) of language agents.
+In my work, I study [methods](https://arxiv.org/abs/2210.03629), [benchmarks](https://arxiv.org/abs/2207.01206), [theories](https://arxiv.org/abs/2309.02427), and [societal impact](https://princeton-nlp.github.io/language-agent-impact/) of language agents. 
 
 In my life, I read, travel, rap, and play basketball.
  
@@ -43,6 +43,7 @@ To students: email me to schedule a chat about anything! I will dedicate 30min/w
   
 - **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** <br>
     John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao <br>
+    NeurIPS 2023 Datasets and Benchmarks Track <br>
     [paper](https://arxiv.org/abs/2306.14898) |
     [repo](https://github.com/princeton-nlp/intercode) |
     [tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066) |
@@ -56,19 +57,21 @@ To students: email me to schedule a chat about anything! I will dedicate 30min/w
 
 - **Reflexion: Language Agents with Verbal Reinforcement Learning** <br>
     Noah Shinn, Federico Cassano, Beck Labash, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao <br>
+    NeurIPS 2023 <br>
     [paper](https://arxiv.org/abs/2303.11366) |
     [repo](https://github.com/noahshinn024/reflexion) |
     [tweet](https://twitter.com/ShunyuYao12/status/1661875632387641345)
 
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** <br>
     Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan <br>
+    NeurIPS 2023 (Oral) <br>
     [paper](https://arxiv.org/abs/2305.10601) |
     [repo](https://github.com/ysymyth/tree-of-thought-llm) |
     [tweet](https://twitter.com/ShunyuYao12/status/1659357547474681857)
     
 - **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
     Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
-    ICLR 2023 (Oral top 5%) <br>
+    ICLR 2023 (Oral) <br>
     [paper](https://arxiv.org/abs/2210.03629) |
     [repo](https://github.com/ysymyth/ReAct) |
     [tweet](https://twitter.com/ShunyuYao12/status/1579475607402217472) |
@@ -155,6 +158,9 @@ To students: email me to schedule a chat about anything! I will dedicate 30min/w
 
 
 # Recent Talks 
+- Cognitive Architectures for Language Agents
+    - MiraclePlus, Remote, Sept 2022
+    - Cognitive Science Colloquium, Princeton, Sept 2022
 - [From Language Models to Language Agents](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf)
     - Tsinghua University, Remote, Aug 2023
 - [Tree of Thoughts: System 2 Reasoning, Tree Search, and Language Agents](https://docs.google.com/presentation/d/1FkANjhY9zyFXFQSpceKm5R9pklxmqvCa4oezgE64wWY/edit?usp=sharing)
@@ -173,18 +179,18 @@ To students: email me to schedule a chat about anything! I will dedicate 30min/w
     - EMNLP EvoNLP & NILLI Workshops, Abu Dhabi, Dec 2022
     - NeurIPS FMDM Workshop, New Orleans, Nov 2022
 - **Towards Human-like Language Models**
-    - Princeton Cognitive Science Colloquium, Princeton, Nov 2022
+    - Cognitive Science Colloquium, Princeton, Nov 2022
 - **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**
     - University of Washington, Seattle, July 2022
 
 # Recent Readings
-* Elon Musk (Walter Isaacson)
 * The Computer and the Brain (John von Neumann)
 * Automata Studies (Editted by C.E. Shannon and J. McCarthy)
 * Team of Rivals (Doris Goodwin)
 * The Linguistics Wars (Randy Harris)
 
 <!-- * A Simpler Life (The School of Life)
+* Elon Musk (Walter Isaacson)
 * What Babies Know (Elizabeth Spelke)
 * The Art of Doing Science and Engineering (Richard Hamming)
 * The Search (John Battelle) -->
