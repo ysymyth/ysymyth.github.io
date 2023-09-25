@@ -14,14 +14,14 @@ In my life, I read, travel, rap, and play basketball.
  
 To anyone: give me [feedback](https://www.admonymous.co/ysymyth) about anything! 
 
-To students: email me to schedule a chat about anything! I will dedicate 30min/week and priortize underrepresented groups.
+To students: email me to schedule a chat about anything! I commit 30min/week and priortize underrepresented groups.
 
 
 # Recent News
-- Sept 2023: Excited to release 🐨[CoLLA](https://arxiv.org/abs/2309.02427), a systematic framework for language agents! Summary [here](https://twitter.com/ShunyuYao12/status/1699396834983362690).
-- Aug 2023: I gave a [talk](https://www.bilibili.com/video/BV1ju4y1e7Em) at Tsinghua covering ReAct, Reflexion, ToT, WebShop, InterCode, Collie. Slides [here](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf).
-- July 2023: I enjoyed teaching at [Princeton AI4ALL](https://ai4all.princeton.edu)! Coverage [here](https://www.today.com/video/how-the-summer-program-ai4all-is-helping-reshape-the-future-189707845651).
-- July 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about opportunities and risks of language agents! Comment [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
+- Sep 2023: Excited to release 🐨[CoLLA](https://arxiv.org/abs/2309.02427), a systematic framework for language agents! Summary [here](https://twitter.com/ShunyuYao12/status/1699396834983362690).
+- Aug 2023: I gave a two-hour (!) [talk](https://www.bilibili.com/video/BV1ju4y1e7Em) covering ReAct, Reflexion, ToT, WebShop, InterCode, Collie. Slides [here](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf).
+- Jul 2023: I enjoyed teaching at [Princeton AI4ALL](https://ai4all.princeton.edu)! Coverage [here](https://www.today.com/video/how-the-summer-program-ai4all-is-helping-reshape-the-future-189707845651).
+- Jul 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about opportunities and risks of language agents! Comment [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
 - Apr 2023: I attended LangChain's Agent [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4). Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).
 
 
@@ -159,13 +159,13 @@ To students: email me to schedule a chat about anything! I will dedicate 30min/w
 
 # Recent Talks 
 - Cognitive Architectures for Language Agents
-    - MiraclePlus, Remote, Sept 2022
-    - Cognitive Science Colloquium, Princeton, Sept 2022
+    - MiraclePlus, Remote, Sep 2022
+    - Cognitive Science Colloquium, Princeton, Sep 2022
 - [From Language Models to Language Agents](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf)
     - Tsinghua University, Remote, Aug 2023
 - [Tree of Thoughts: System 2 Reasoning, Tree Search, and Language Agents](https://docs.google.com/presentation/d/1FkANjhY9zyFXFQSpceKm5R9pklxmqvCa4oezgE64wWY/edit?usp=sharing)
-    - Google DeepMind, Remote, July 2023
-    - Allen Institute for AI, Seattle, August 2023
+    - Google DeepMind, Remote, Jul 2023
+    - Allen Institute for AI, Seattle, Aug 2023
 - **Towards Autonomous Language Agents** 
     - DeepMind, London, Apr 2023
     - EPFL NLP Group, Lausanne, Mar 2023
@@ -181,7 +181,7 @@ To students: email me to schedule a chat about anything! I will dedicate 30min/w
 - **Towards Human-like Language Models**
     - Cognitive Science Colloquium, Princeton, Nov 2022
 - **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**
-    - University of Washington, Seattle, July 2022
+    - University of Washington, Seattle, Jul 2022
 
 # Recent Readings
 * The Computer and the Brain (John von Neumann)
@@ -201,4 +201,4 @@ To students: email me to schedule a chat about anything! I will dedicate 30min/w
 <!-- * 西方语言学史 （姚小平）-->
 
 
-(last updated: Sept 2023)
+(last updated: Sep 2023)
