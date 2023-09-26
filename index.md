@@ -189,6 +189,7 @@ To students: email me to schedule a chat about anything! I commit 30min/week and
     - University of Washington, Seattle, Jul 2022
 
 # Recent Readings
+* Set Theory (John Burgess)
 * The Computer and the Brain (John von Neumann)
 * Automata Studies (Editted by C.E. Shannon and J. McCarthy)
 * Team of Rivals (Doris Goodwin)
