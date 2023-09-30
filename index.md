@@ -8,7 +8,7 @@ permalink: /index.html
 
 I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 
-In my work, I study [methods](https://arxiv.org/abs/2210.03629), [benchmarks](https://arxiv.org/abs/2207.01206), [theories](https://arxiv.org/abs/2309.02427), and [societal impact](https://princeton-nlp.github.io/language-agent-impact/) of language agents. 
+In my work, I study [methods](https://arxiv.org/abs/2210.03629), [benchmarks](https://arxiv.org/abs/2207.01206), [abstractions](https://arxiv.org/abs/2309.02427), and [deployment](https://princeton-nlp.github.io/language-agent-impact/) of language agents. 
 
 In my life, I read, travel, rap, and play basketball.
  
@@ -37,6 +37,12 @@ To students: email me to schedule a chat about anything! I commit 30min/week and
     [paper](https://arxiv.org/abs/2309.02427) |
     [repo](https://github.com/ysymyth/awesome-language-agents) |
     [tweet](https://twitter.com/ShunyuYao12/status/1699396834983362690)
+  
+- **Referral Augmentation for Zero-Shot Information Retrieval** <br>
+    Michael Tang, Shunyu Yao, John Yang, Karthik Narasimhan <br>
+    [paper](https://arxiv.org/abs/2305.15098) |
+    [repo](https://github.com/michaelwilliamtang/referral-augment) |
+    [tweet](https://twitter.com/ShunyuYao12/status/1661340889724100611)
 
 - **Collie: Systematic Construction of Constrained Text Generation Tasks** <br>
     Shunyu Yao\*, Howard Chen\*, Austin Wang\*, Runzhe Yang\*, Karthik Narasimhan <br>
@@ -45,7 +51,6 @@ To students: email me to schedule a chat about anything! I commit 30min/week and
     [tweet](https://twitter.com/ShunyuYao12/status/1681315647018663936) |
     [project](https://collie-benchmark.github.io)
 
-  
 - **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** <br>
     John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao <br>
     NeurIPS 2023 Datasets and Benchmarks Track <br>
@@ -54,12 +59,6 @@ To students: email me to schedule a chat about anything! I commit 30min/week and
     [tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066) |
     [project](https://intercode-benchmark.github.io)
   
-- **Referral Augmentation for Zero-Shot Information Retrieval** <br>
-    Michael Tang, Shunyu Yao, John Yang, Karthik Narasimhan <br>
-    [paper](https://arxiv.org/abs/2305.15098) |
-    [repo](https://github.com/michaelwilliamtang/referral-augment) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1661340889724100611)
-
 - **Reflexion: Language Agents with Verbal Reinforcement Learning** <br>
     Noah Shinn, Federico Cassano, Beck Labash, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao <br>
     NeurIPS 2023 <br>
