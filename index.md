@@ -8,7 +8,7 @@ permalink: /index.html
 
 I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 
-In my work, I study [methods](https://arxiv.org/abs/2210.03629), [benchmarks](https://arxiv.org/abs/2207.01206), [abstractions](https://arxiv.org/abs/2309.02427), and [deployment](https://princeton-nlp.github.io/language-agent-impact/) of language agents. 
+In my work, I study [methods](https://arxiv.org/abs/2210.03629), [evaluations](https://arxiv.org/abs/2207.01206), [abstractions](https://arxiv.org/abs/2309.02427), and [risks](https://princeton-nlp.github.io/language-agent-impact/) of language agents. 
 
 In my life, I read, travel, rap, and play basketball.
  
@@ -162,15 +162,15 @@ To students: email me to schedule a chat about anything! I commit 30min/week and
 
 
 # Recent Talks 
-- Cognitive Architectures for Language Agents
-    - MiraclePlus, Remote, Sep 2022
-    - Cognitive Science Colloquium, Princeton, Sep 2022
+- **Cognitive Architectures for Language Agents**
+    - MiraclePlus, Remote, Sep 2023
+    - Cognitive Science Colloquium, Princeton, Sep 2023
 - [From Language Models to Language Agents](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf)
     - Tsinghua University, Remote, Aug 2023
 - [Tree of Thoughts: System 2 Reasoning, Tree Search, and Language Agents](https://docs.google.com/presentation/d/1FkANjhY9zyFXFQSpceKm5R9pklxmqvCa4oezgE64wWY/edit?usp=sharing)
     - Google DeepMind, Remote, Jul 2023
     - Allen Institute for AI, Seattle, Aug 2023
-- **Towards Autonomous Language Agents** 
+- **Towards Autonomous Language Agents**
     - DeepMind, London, Apr 2023
     - EPFL NLP Group, Lausanne, Mar 2023
     - Berekley NLP Group, Berekley, Mar 2023
