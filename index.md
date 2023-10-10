@@ -26,6 +26,21 @@ To students: email me to schedule a chat about anything! I commit 30min/week and
 
 
 # Recent Papers
+- **FireAct: Toward Language Agent Fine-tuning** <br>
+  Baian Chen\*, Chang Shu\*, Ehsan Shareghi, Nigel Collier, Karthik Narasimhan, Shunyu Yao <br>
+    [paper](https://arxiv.org/abs/2310.05915) |
+    [repo](https://github.com/anchen1011/FireAct) |
+    [tweet](https://twitter.com/ShunyuYao12/status/1711765532968653114) |
+    [project](https://fireact-agent.github.io) |
+    [models](https://huggingface.co/forestai/fireact_llama_2_7b)
+
+- **SWE-bench: Can Language Models Resolve Real-World Github Issues?** <br>
+  Carlos E. Jimenez\*, John Yang\*, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan <br>
+    [paper](http://www.swebench.com/paper.pdf) |
+    [repo](https://github.com/princeton-nlp/SWE-bench) |
+    [tweet](https://twitter.com/jyangballin/status/1711822353473437953) |
+    [project](http://www.swebench.com)
+  
 - **Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve** <br>
     R. Thomas McCoy, Shunyu Yao, Dan Friedman, Matthew Hardy, Thomas L. Griffiths <br>
     [paper](https://arxiv.org/abs/2309.13638) |
@@ -162,6 +177,10 @@ To students: email me to schedule a chat about anything! I commit 30min/week and
 
 
 # Recent Talks 
+- [On Formulating and Evaluating Language Agents](https://ysymyth.github.io/papers/on_formulating_and_evaluating_language_agents)
+    - USC ISI, Remote, Oct 2023
+    - Amazon, Palo Alto, Oct 2023
+    - Stanford NLP Group, Stanford, Oct 2023
 - **Cognitive Architectures for Language Agents**
     - MiraclePlus, Remote, Sep 2023
     - Cognitive Science Colloquium, Princeton, Sep 2023
