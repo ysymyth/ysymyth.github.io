@@ -177,7 +177,7 @@ To students: email me to schedule a chat about anything! I commit 30min/week and
 
 
 # Recent Talks 
-- [On Formulating and Evaluating Language Agents](https://ysymyth.github.io/papers/on_formulating_and_evaluating_language_agents)
+- [On Formulating and Evaluating Language Agents](https://ysymyth.github.io/papers/on_formulating_and_evaluating_language_agents.pdf)
     - USC ISI, Remote, Oct 2023
     - Amazon, Palo Alto, Oct 2023
     - Stanford NLP Group, Stanford, Oct 2023
