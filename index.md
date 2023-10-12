@@ -8,7 +8,7 @@ permalink: /index.html
 
 I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 
-In my work, I study [methods](https://arxiv.org/abs/2210.03629), [evaluations](https://arxiv.org/abs/2207.01206), [abstractions](https://arxiv.org/abs/2309.02427), and [risks](https://princeton-nlp.github.io/language-agent-impact/) of language agents. 
+In my work, I study [methods](https://arxiv.org/abs/2210.03629), [benchmarks](https://arxiv.org/abs/2207.01206), [theories](https://arxiv.org/abs/2309.02427), and [risks](https://princeton-nlp.github.io/language-agent-impact/) of language agents. 
 
 In my life, I read, travel, rap, and play basketball.
  
@@ -36,7 +36,7 @@ To students: email me to schedule a chat about anything! I commit 30min/week and
 
 - **SWE-bench: Can Language Models Resolve Real-World Github Issues?** <br>
   Carlos E. Jimenez\*, John Yang\*, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan <br>
-    [paper](http://www.swebench.com/paper.pdf) |
+    [paper](https://arxiv.org/abs/2310.06770) |
     [repo](https://github.com/princeton-nlp/SWE-bench) |
     [tweet](https://twitter.com/jyangballin/status/1711822353473437953) |
     [project](http://www.swebench.com)
