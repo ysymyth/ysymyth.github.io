@@ -8,7 +8,7 @@ permalink: /index.html
 
 I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 
-In my work, I [creater](https://arxiv.org/abs/2210.03629), [evaluate](https://arxiv.org/abs/2207.01206), [formalize](https://arxiv.org/abs/2309.02427), and [envision](https://princeton-nlp.github.io/language-agent-impact/) language agents. 
+In my work, I study [methods](https://arxiv.org/abs/2210.03629), [tasks](https://arxiv.org/abs/2207.01206), [theories](https://arxiv.org/abs/2309.02427), and [risks](https://princeton-nlp.github.io/language-agent-impact/) of language agents.
 
 In my life, I read, travel, rap, and play basketball.
  
@@ -90,7 +90,7 @@ I dedicate 30 minutes per week to chat with students. Just email me.
     
 - **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
     Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
-    ICLR 2023 (Oral) <br>
+    ICLR 2023 (Oral, top 5%) <br>
     [paper](https://arxiv.org/abs/2210.03629) |
     [repo](https://github.com/ysymyth/ReAct) |
     [tweet](https://twitter.com/ShunyuYao12/status/1579475607402217472) |
