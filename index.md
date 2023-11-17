@@ -4,7 +4,7 @@ title: About
 permalink: /index.html
 ---
 
-<img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
+<img style="float:right; padding-left:10px" src="images/self.jpeg" width="180" height="180">
 
 I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 
@@ -181,6 +181,8 @@ I dedicate 30 minutes per week to chat with students. Just email me.
     - USC ISI, Remote, Oct 2023
     - Amazon, Palo Alto, Oct 2023
     - Stanford NLP Group, Stanford, Oct 2023
+    - Berkeley RISELab, Berkeley, Oct 2023
+    - Imperial College London I-X Seminar, Remote, Nov 2023
 - **Cognitive Architectures for Language Agents**
     - MiraclePlus, Remote, Sep 2023
     - Cognitive Science Colloquium, Princeton, Sep 2023
