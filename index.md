@@ -14,7 +14,7 @@ In my life, I read, travel, rap, and play basketball.
  
 <!-- - To anyone: give me [feedback](https://www.admonymous.co/ysymyth) about anything! -->
 
-I dedicate 30 minutes per week to chat with students. Just email me.
+I dedicate 30 minutes per week to chat with students. Just email me via the paper plane!
 
 
 # Recent News
