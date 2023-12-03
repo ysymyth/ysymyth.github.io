@@ -14,12 +14,12 @@ In my life, I read, travel, rap, and play basketball.
  
 <!-- - To anyone: give me [feedback](https://www.admonymous.co/ysymyth) about anything! -->
 
-I dedicate 30 minutes per week to chat with students. Just email me via the paper plane!
+I dedicate 30 minutes per week to chat with students. Just paper plane me!
 
 
 # Recent News
 - Sep 2023: Excited to release 🐨[CoALA](https://arxiv.org/abs/2309.02427), a systematic framework for language agents! Summary [here](https://twitter.com/ShunyuYao12/status/1699396834983362690).
-- Aug 2023: I gave a two-hour Chinese [talk](https://www.bilibili.com/video/BV1ju4y1e7Em) covering ReAct, Reflexion, ToT, WebShop, InterCode, Collie. English slides [here](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf).
+- Aug 2023: I gave a two-hour [talk](https://www.bilibili.com/video/BV1ju4y1e7Em) covering ReAct, Reflexion, ToT, WebShop, InterCode, Collie. Slides [here](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf).
 - Jul 2023: I enjoyed teaching at [Princeton AI4ALL](https://ai4all.princeton.edu)! Coverage [here](https://www.today.com/video/how-the-summer-program-ai4all-is-helping-reshape-the-future-189707845651).
 - Jul 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about opportunities and risks of language agents! Comment [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
 - Apr 2023: I attended LangChain's Agent [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4). Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).
