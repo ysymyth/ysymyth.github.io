@@ -8,7 +8,7 @@ permalink: /index.html
 
 I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 
-In my work, I study [methods](https://arxiv.org/abs/2210.03629), [tasks](https://arxiv.org/abs/2207.01206), [theories](https://arxiv.org/abs/2309.02427), and [risks](https://princeton-nlp.github.io/language-agent-impact/) of language agents.
+In my work, I study [methods](https://arxiv.org/abs/2210.03629), [tasks](https://arxiv.org/abs/2207.01206), [theories](https://arxiv.org/abs/2309.02427), and [social impact](https://princeton-nlp.github.io/language-agent-impact/) of [language agents](https://ysymyth.github.io/papers/research_statement.pdf).
 
 In my life, I read, travel, rap, and play basketball.
  
@@ -17,55 +17,53 @@ In my life, I read, travel, rap, and play basketball.
 I dedicate 30 minutes per week to chat with students. Just paper plane me!
 
 
+<!---
 # Recent News
 - Sep 2023: Excited to release 🐨[CoALA](https://arxiv.org/abs/2309.02427), a systematic framework for language agents! Summary [here](https://twitter.com/ShunyuYao12/status/1699396834983362690).
-- Aug 2023: I gave a two-hour [talk](https://www.bilibili.com/video/BV1ju4y1e7Em) covering ReAct, Reflexion, ToT, WebShop, InterCode, Collie. Slides [here](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf).
+- Aug 2023: I gave a [talk](https://www.bilibili.com/video/BV1ju4y1e7Em) in Chinese about ReAct, Reflexion, ToT, WebShop, InterCode, Collie. Slides [here](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf).
 - Jul 2023: I enjoyed teaching at [Princeton AI4ALL](https://ai4all.princeton.edu)! Coverage [here](https://www.today.com/video/how-the-summer-program-ai4all-is-helping-reshape-the-future-189707845651).
 - Jul 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about opportunities and risks of language agents! Comment [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
-- Apr 2023: I attended LangChain's Agent [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4). Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).
-
+<!---- Apr 2023: I attended LangChain's Agent [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4). Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).   --> 
 
 # Recent Papers
-- **FireAct: Toward Language Agent Fine-tuning** <br>
-  Baian Chen\*, Chang Shu\*, Ehsan Shareghi, Nigel Collier, Karthik Narasimhan, Shunyu Yao <br>
-    [paper](https://arxiv.org/abs/2310.05915) |
-    [repo](https://github.com/anchen1011/FireAct) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1711765532968653114) |
-    [project](https://fireact-agent.github.io) |
-    [models](https://huggingface.co/forestai/fireact_llama_2_7b)
+These papers represent my current research.
+Check [here](https://scholar.google.com/citations?user=qJBXk9cAAAAJ) for more.
 
-- **SWE-bench: Can Language Models Resolve Real-World Github Issues?** <br>
-  Carlos E. Jimenez\*, John Yang\*, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan <br>
-    [paper](https://arxiv.org/abs/2310.06770) |
-    [repo](https://github.com/princeton-nlp/SWE-bench) |
-    [tweet](https://twitter.com/jyangballin/status/1711822353473437953) |
-    [project](http://www.swebench.com)
-  
-- **Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve** <br>
-    R. Thomas McCoy, Shunyu Yao, Dan Friedman, Matthew Hardy, Thomas L. Griffiths <br>
-    [paper](https://arxiv.org/abs/2309.13638) |
-    [repo](https://github.com/tommccoy1/embers-of-autoregression) |
-    [tweet](https://twitter.com/RTomMcCoy/status/1706664506913399198)
-  
 - **Cognitive Architectures for Language Agents** <br>
     Shunyu Yao\*, Theodore Sumers\*, Karthik Narasimhan, Thomas L. Griffiths <br>
     [paper](https://arxiv.org/abs/2309.02427) |
     [repo](https://github.com/ysymyth/awesome-language-agents) |
     [tweet](https://twitter.com/ShunyuYao12/status/1699396834983362690)
+
+- **SWE-bench: Can Language Models Resolve Real-World Github Issues?** <br>
+  Carlos E. Jimenez\*, John Yang\*, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan <br>
+  ICLR 2024 (Oral) <br>
+    [paper](https://arxiv.org/abs/2310.06770) |
+    [repo](https://github.com/princeton-nlp/SWE-bench) |
+    [tweet](https://twitter.com/jyangballin/status/1711822353473437953) |
+    [project](http://www.swebench.com)
   
-- **Referral Augmentation for Zero-Shot Information Retrieval** <br>
+<!--- **Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve** <br>
+    R. Thomas McCoy, Shunyu Yao, Dan Friedman, Matthew Hardy, Thomas L. Griffiths <br>
+    [paper](https://arxiv.org/abs/2309.13638) |
+    [repo](https://github.com/tommccoy1/embers-of-autoregression) |
+    [tweet](https://twitter.com/RTomMcCoy/status/1706664506913399198)
+   -->
+
+<!---- **Referral Augmentation for Zero-Shot Information Retrieval** <br>
     Michael Tang, Shunyu Yao, John Yang, Karthik Narasimhan <br>
     [paper](https://arxiv.org/abs/2305.15098) |
     [repo](https://github.com/michaelwilliamtang/referral-augment) |
     [tweet](https://twitter.com/ShunyuYao12/status/1661340889724100611)
-
-- **Collie: Systematic Construction of Constrained Text Generation Tasks** <br>
+   -->
+   
+<!-- - **Collie: Systematic Construction of Constrained Text Generation Tasks** <br>
     Shunyu Yao\*, Howard Chen\*, Austin Wang\*, Runzhe Yang\*, Karthik Narasimhan <br>
     [paper](https://arxiv.org/abs/2307.08689) |
     [repo](https://github.com/princeton-nlp/Collie) |
     [tweet](https://twitter.com/ShunyuYao12/status/1681315647018663936) |
     [project](https://collie-benchmark.github.io)
-
+   -->
 - **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** <br>
     John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao <br>
     NeurIPS 2023 Datasets and Benchmarks Track <br>
@@ -176,17 +174,18 @@ I dedicate 30 minutes per week to chat with students. Just paper plane me!
     [project](http://3dsdn.csail.mit.edu) -->
 
 
-# Recent Talks 
+# Selected Talks 
 - [On Formulating and Evaluating Language Agents](https://ysymyth.github.io/papers/on_formulating_and_evaluating_language_agents.pdf)
     - USC ISI, Remote, Oct 2023
     - Amazon, Palo Alto, Oct 2023
     - Stanford NLP Group, Stanford, Oct 2023
     - Berkeley RISELab, Berkeley, Oct 2023
     - Imperial College London I-X Seminar, Remote, Nov 2023
-- **Cognitive Architectures for Language Agents**
+    - University of Toronto, Toronto, Nov 2023
+<!----- **Cognitive Architectures for Language Agents**
     - MiraclePlus, Remote, Sep 2023
-    - Cognitive Science Colloquium, Princeton, Sep 2023
-- [From Language Models to Language Agents](https://ysymyth.github.io/papers/from_language_models_to_language_agents.pdf)
+    - Cognitive Science Colloquium, Princeton, Sep 2023 -->
+- [From Language Models to Language Agents](https://www.bilibili.com/video/BV1ju4y1e7Em)
     - Tsinghua University, Remote, Aug 2023
 - [Tree of Thoughts: System 2 Reasoning, Tree Search, and Language Agents](https://docs.google.com/presentation/d/1FkANjhY9zyFXFQSpceKm5R9pklxmqvCa4oezgE64wWY/edit?usp=sharing)
     - Google DeepMind, Remote, Jul 2023
@@ -199,14 +198,6 @@ I dedicate 30 minutes per week to chat with students. Just paper plane me!
     - Adept AI, San Francisco, Mar 2023
 - [Re-thinking Reinforcement Learning in the Era of Large Language Models](https://docs.google.com/presentation/d/1mlhFBRdzN3aXQ1kDCwxGFfnQdjnHr7Ou9DAhLk186Y0/edit?usp=sharing&resourcekey=0-MVtkY5wr6GD-Dm80Cvsruw)
     - Jane Street, New York, Apr 2023
-- **ReAct: Synergizing Reasoning and Acting in Language Models**
-    - ICLR, Kigali, May 2023
-    - EMNLP EvoNLP & NILLI Workshops, Abu Dhabi, Dec 2022
-    - NeurIPS FMDM Workshop, New Orleans, Nov 2022
-- **Towards Human-like Language Models**
-    - Cognitive Science Colloquium, Princeton, Nov 2022
-- **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**
-    - University of Washington, Seattle, Jul 2022
 
 # Recent Readings
 * Set Theory (John Burgess)
@@ -227,4 +218,4 @@ I dedicate 30 minutes per week to chat with students. Just paper plane me!
 <!-- * 西方语言学史 （姚小平）-->
 
 
-(last updated: Sep 2023)
+(last updated: Feb 2024)
