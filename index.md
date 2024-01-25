@@ -25,10 +25,7 @@ I dedicate 30 minutes per week to chat with students. Just paper plane me!
 - Jul 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about opportunities and risks of language agents! Comment [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
 <!---- Apr 2023: I attended LangChain's Agent [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4). Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).   --> 
 
-# Recent Papers
-These papers represent my current research.
-Check [here](https://scholar.google.com/citations?user=qJBXk9cAAAAJ) for more.
-
+# Selected Papers
 - **Cognitive Architectures for Language Agents** <br>
     Shunyu Yao\*, Theodore Sumers\*, Karthik Narasimhan, Thomas L. Griffiths <br>
     [paper](https://arxiv.org/abs/2309.02427) |
@@ -174,32 +171,13 @@ Check [here](https://scholar.google.com/citations?user=qJBXk9cAAAAJ) for more.
     [project](http://3dsdn.csail.mit.edu) -->
 
 
-# Selected Talks 
-- [On Formulating and Evaluating Language Agents](https://ysymyth.github.io/papers/on_formulating_and_evaluating_language_agents.pdf)
-    - USC ISI, Remote, Oct 2023
-    - Amazon, Palo Alto, Oct 2023
-    - Stanford NLP Group, Stanford, Oct 2023
-    - Berkeley RISELab, Berkeley, Oct 2023
-    - Imperial College London I-X Seminar, Remote, Nov 2023
-    - University of Toronto, Toronto, Nov 2023
-<!----- **Cognitive Architectures for Language Agents**
-    - MiraclePlus, Remote, Sep 2023
-    - Cognitive Science Colloquium, Princeton, Sep 2023 -->
-- [From Language Models to Language Agents](https://www.bilibili.com/video/BV1ju4y1e7Em)
-    - Tsinghua University, Remote, Aug 2023
-- [Tree of Thoughts: System 2 Reasoning, Tree Search, and Language Agents](https://docs.google.com/presentation/d/1FkANjhY9zyFXFQSpceKm5R9pklxmqvCa4oezgE64wWY/edit?usp=sharing)
-    - Google DeepMind, Remote, Jul 2023
-    - Allen Institute for AI, Seattle, Aug 2023
-- **Towards Autonomous Language Agents**
-    - DeepMind, London, Apr 2023
-    - EPFL NLP Group, Lausanne, Mar 2023
-    - Berekley NLP Group, Berekley, Mar 2023
-    - OpenAI, San Francisco, Mar 2023
-    - Adept AI, San Francisco, Mar 2023
+# Selected Talks
+- [On Formulating and Evaluating Language Agents](https://www.youtube.com/watch?v=qmGu9okiICU) 
+- [从语言模型到语言智能体](https://www.bilibili.com/video/BV1ju4y1e7Em)
 - [Re-thinking Reinforcement Learning in the Era of Large Language Models](https://docs.google.com/presentation/d/1mlhFBRdzN3aXQ1kDCwxGFfnQdjnHr7Ou9DAhLk186Y0/edit?usp=sharing&resourcekey=0-MVtkY5wr6GD-Dm80Cvsruw)
-    - Jane Street, New York, Apr 2023
 
-# Recent Readings
+
+# Selected Readings
 * Set Theory (John Burgess)
 * The Computer and the Brain (John von Neumann)
 * Automata Studies (Editted by C.E. Shannon and J. McCarthy)
