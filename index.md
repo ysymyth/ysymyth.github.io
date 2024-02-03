@@ -28,6 +28,7 @@ I dedicate 30 minutes per week to chat with students. Just paper plane me!
 # Selected Papers
 - **Cognitive Architectures for Language Agents** <br>
     Shunyu Yao\*, Theodore Sumers\*, Karthik Narasimhan, Thomas L. Griffiths <br>
+    TMLR 2024 <br>
     [paper](https://arxiv.org/abs/2309.02427) |
     [repo](https://github.com/ysymyth/awesome-language-agents) |
     [tweet](https://twitter.com/ShunyuYao12/status/1699396834983362690)
