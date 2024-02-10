@@ -25,7 +25,7 @@ I dedicate 30 minutes per week to chat with students. Just paper plane me!
 - Jul 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about opportunities and risks of language agents! Comment [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
 <!---- Apr 2023: I attended LangChain's Agent [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4). Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).   --> 
 
-# Selected Papers
+# Selected papers
 - **Cognitive Architectures for Language Agents** <br>
     Shunyu Yao\*, Theodore Sumers\*, Karthik Narasimhan, Thomas L. Griffiths <br>
     TMLR 2024 <br>
@@ -172,13 +172,16 @@ I dedicate 30 minutes per week to chat with students. Just paper plane me!
     [project](http://3dsdn.csail.mit.edu) -->
 
 
-# Selected Talks
+# Online talks
 - [On Formulating and Evaluating Language Agents](https://www.youtube.com/watch?v=qmGu9okiICU) 
 - [从语言模型到语言智能体](https://www.bilibili.com/video/BV1ju4y1e7Em)
 - [Re-thinking Reinforcement Learning in the Era of Large Language Models](https://docs.google.com/presentation/d/1mlhFBRdzN3aXQ1kDCwxGFfnQdjnHr7Ou9DAhLk186Y0/edit?usp=sharing&resourcekey=0-MVtkY5wr6GD-Dm80Cvsruw)
 
 
-# Selected Readings
+# Recent readings
+* A First Course in General Relativity (Bernard Schutz)
+* The Worlds I See (Fei-fei Li)
+* Einstein: His Life and Universe (Walter Isaacson)
 * Set Theory (John Burgess)
 * The Computer and the Brain (John von Neumann)
 * Automata Studies (Editted by C.E. Shannon and J. McCarthy)
