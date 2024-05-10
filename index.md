@@ -31,12 +31,12 @@ In my life, I read, travel, rap, and play basketball.
   Shunyu Yao <br>
   PhD Thesis <br>
     [paper](https://ysymyth.github.io/papers/Dissertation-finalized.pdf) |
-    [slides](https://ysymyth.github.io/papers/FPO.pdf) |
+    [slides](https://ysymyth.github.io/papers/fpo.pdf) |
     [talk]()
 
   
 - **SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models** <br>
-  John Yang*, Carlos E. Jimenez*, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press <br>
+  John Yang\*, Carlos E. Jimenez\*, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press <br>
     [paper](https://swe-agent.com/paper.pdf) |
     [repo](https://github.com/princeton-nlp/SWE-agent) |
     [tweet](https://twitter.com/jyangballin/status/1775114444370051582) |
