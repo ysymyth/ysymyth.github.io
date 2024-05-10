@@ -6,7 +6,7 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 
-I defended my PhD at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
+I obtained my PhD from Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 
 In my work, I study [methods](https://arxiv.org/abs/2210.03629), [tasks](https://arxiv.org/abs/2207.01206), [theories](https://arxiv.org/abs/2309.02427), and [social impact](https://princeton-nlp.github.io/language-agent-impact/) of [language agents](https://ysymyth.github.io/papers/Dissertation-finalized.pdf).
 
@@ -32,7 +32,7 @@ In my life, I read, travel, rap, and play basketball.
   PhD Thesis <br>
     [paper](https://ysymyth.github.io/papers/Dissertation-finalized.pdf) |
     [slides](https://ysymyth.github.io/papers/fpo.pdf) |
-    [talk]()
+    [talk](https://www.youtube.com/watch?v=zwfE6J2BIR4)
 
   
 - **SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models** <br>
@@ -191,25 +191,30 @@ In my life, I read, travel, rap, and play basketball.
 
 
 # Online talks
+- [Language Agents: From Next-Token Prediction to Digital Automation](https://www.youtube.com/watch?v=zwfE6J2BIR4)
 - [On Formulating and Evaluating Language Agents](https://www.youtube.com/watch?v=qmGu9okiICU) 
 - [从语言模型到语言智能体](https://www.bilibili.com/video/BV1ju4y1e7Em)
 - [Re-thinking Reinforcement Learning in the Era of Large Language Models](https://docs.google.com/presentation/d/1mlhFBRdzN3aXQ1kDCwxGFfnQdjnHr7Ou9DAhLk186Y0/edit?usp=sharing&resourcekey=0-MVtkY5wr6GD-Dm80Cvsruw)
 
 
 # Recent readings
+* Advice for a Young Investigator (Santiago Cajal)
 * A First Course in General Relativity (Bernard Schutz)
 * The Worlds I See (Fei-fei Li)
+* What Babies Know (Elizabeth Spelke)
+* The Art of Doing Science and Engineering (Richard Hamming)
+
+
+<!--   
 * Einstein: His Life and Universe (Walter Isaacson)
 * Set Theory (John Burgess)
 * The Computer and the Brain (John von Neumann)
 * Automata Studies (Editted by C.E. Shannon and J. McCarthy)
 * Team of Rivals (Doris Goodwin)
 * The Linguistics Wars (Randy Harris)
-* What Babies Know (Elizabeth Spelke)
-  
+ -->
 <!-- * A Simpler Life (The School of Life)
 * Elon Musk (Walter Isaacson)
-* The Art of Doing Science and Engineering (Richard Hamming)
 * The Search (John Battelle) -->
 <!-- * Leadership: In Turbulent Times (Doris Kearns Goodwin) -->
 <!-- * 置身事内 （兰小欢） -->
@@ -218,4 +223,4 @@ In my life, I read, travel, rap, and play basketball.
 <!-- * 西方语言学史 （姚小平）-->
 
 
-(last updated: Feb 2024)
+(last updated: May 2024)
