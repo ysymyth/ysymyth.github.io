@@ -6,15 +6,15 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 
-I am a PhD student at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
+I defended my PhD at Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
 
-In my work, I study [methods](https://arxiv.org/abs/2210.03629), [tasks](https://arxiv.org/abs/2207.01206), [theories](https://arxiv.org/abs/2309.02427), and [social impact](https://princeton-nlp.github.io/language-agent-impact/) of [language agents](https://ysymyth.github.io/papers/research_statement.pdf).
+In my work, I study [methods](https://arxiv.org/abs/2210.03629), [tasks](https://arxiv.org/abs/2207.01206), [theories](https://arxiv.org/abs/2309.02427), and [social impact](https://princeton-nlp.github.io/language-agent-impact/) of [language agents](https://ysymyth.github.io/papers/Dissertation-finalized.pdf).
 
 In my life, I read, travel, rap, and play basketball.
  
 <!-- - To anyone: give me [feedback](https://www.admonymous.co/ysymyth) about anything! -->
 
-I dedicate 30 minutes per week to chat with students. Just paper plane me!
+<!--I dedicate 30 minutes per week to chat with students. Just paper plane me!  -->
 
 
 <!---
@@ -26,12 +26,22 @@ I dedicate 30 minutes per week to chat with students. Just paper plane me!
 <!---- Apr 2023: I attended LangChain's Agent [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4). Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).   --> 
 
 # Selected papers
-- **Cognitive Architectures for Language Agents** <br>
-    Shunyu Yao\*, Theodore Sumers\*, Karthik Narasimhan, Thomas L. Griffiths <br>
-    TMLR 2024 <br>
-    [paper](https://arxiv.org/abs/2309.02427) |
-    [repo](https://github.com/ysymyth/awesome-language-agents) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1699396834983362690)
+
+- **Language Agents: From Next-Token Prediction to Digital Automation** <br>
+  Shunyu Yao <br>
+  PhD Thesis <br>
+    [paper](https://ysymyth.github.io/papers/Dissertation-finalized.pdf) |
+    [slides](https://ysymyth.github.io/papers/FPO.pdf) |
+    [talk]()
+
+  
+- **SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models** <br>
+  John Yang*, Carlos E. Jimenez*, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press <br>
+    [paper](https://swe-agent.com/paper.pdf) |
+    [repo](https://github.com/princeton-nlp/SWE-agent) |
+    [tweet](https://twitter.com/jyangballin/status/1775114444370051582) |
+    [project](http://www.swe-agent.com)
+  
 
 - **SWE-bench: Can Language Models Resolve Real-World Github Issues?** <br>
   Carlos E. Jimenez\*, John Yang\*, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan <br>
@@ -40,7 +50,15 @@ I dedicate 30 minutes per week to chat with students. Just paper plane me!
     [repo](https://github.com/princeton-nlp/SWE-bench) |
     [tweet](https://twitter.com/jyangballin/status/1711822353473437953) |
     [project](http://www.swebench.com)
-  
+
+- **Cognitive Architectures for Language Agents** <br>
+    Shunyu Yao\*, Theodore Sumers\*, Karthik Narasimhan, Thomas L. Griffiths <br>
+    TMLR 2024 <br>
+    [paper](https://arxiv.org/abs/2309.02427) |
+    [repo](https://github.com/ysymyth/awesome-language-agents) |
+    [tweet](https://twitter.com/ShunyuYao12/status/1699396834983362690)
+
+    
 <!--- **Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve** <br>
     R. Thomas McCoy, Shunyu Yao, Dan Friedman, Matthew Hardy, Thomas L. Griffiths <br>
     [paper](https://arxiv.org/abs/2309.13638) |
