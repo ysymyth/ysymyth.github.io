@@ -6,12 +6,17 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 
-I obtained my PhD from Princeton University, advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/). 
+I am a researcher at OpenAI. 
 
-In my work, I study [methods](https://arxiv.org/abs/2210.03629), [tasks](https://arxiv.org/abs/2207.01206), [theories](https://arxiv.org/abs/2309.02427), and [social impact](https://princeton-nlp.github.io/language-agent-impact/) of [language agents](https://ysymyth.github.io/papers/Dissertation-finalized.pdf).
+<!--Previously, I obtained my PhD from Princeton University advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/), and my bachelor's from Yao Class at Tsinghua University.
+-->
+I study agents.
+
+<!--
+In my work, I study agents.
 
 In my life, I read, travel, rap, and play basketball.
- 
+-->
 <!-- - To anyone: give me [feedback](https://www.admonymous.co/ysymyth) about anything! -->
 
 <!--I dedicate 30 minutes per week to chat with students. Just paper plane me!  -->
@@ -27,6 +32,12 @@ In my life, I read, travel, rap, and play basketball.
 
 # Selected papers
 
+- **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** <br>
+  Shunyu Yao, Noah Shinn, Pedram Razavi, Karthik Narasimhan <br>
+    [paper](https://arxiv.org/abs/2406.12045) |
+    [repo](https://github.com/sierra-research/tau-bench) |
+    [blog](https://sierra.ai/blog/benchmarking-ai-agents)
+
 - **Language Agents: From Next-Token Prediction to Digital Automation** <br>
   Shunyu Yao <br>
   PhD Thesis <br>
@@ -34,7 +45,6 @@ In my life, I read, travel, rap, and play basketball.
     [slides](https://ysymyth.github.io/papers/fpo.pdf) |
     [talk](https://www.youtube.com/watch?v=zwfE6J2BIR4)
 
-  
 - **SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models** <br>
   John Yang\*, Carlos E. Jimenez\*, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press <br>
     [paper](https://swe-agent.com/paper.pdf) |
@@ -198,14 +208,15 @@ In my life, I read, travel, rap, and play basketball.
 
 
 # Recent readings
-* Advice for a Young Investigator (Santiago Cajal)
-* A First Course in General Relativity (Bernard Schutz)
-* The Worlds I See (Fei-fei Li)
+* The Double Helix (James Watson)
+* Lectures on General Relativity (David Tong)
 * What Babies Know (Elizabeth Spelke)
 * The Art of Doing Science and Engineering (Richard Hamming)
 
 
 <!--   
+* Advice for a Young Investigator (Santiago Cajal)
+* The Worlds I See (Fei-fei Li)
 * Einstein: His Life and Universe (Walter Isaacson)
 * Set Theory (John Burgess)
 * The Computer and the Brain (John von Neumann)
@@ -223,4 +234,4 @@ In my life, I read, travel, rap, and play basketball.
 <!-- * 西方语言学史 （姚小平）-->
 
 
-(last updated: May 2024)
+(last updated: Aug 2024)
