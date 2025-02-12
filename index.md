@@ -30,8 +30,23 @@ In my life, I read, travel, rap, and play basketball.
 - Jul 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about opportunities and risks of language agents! Comment [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
 <!---- Apr 2023: I attended LangChain's Agent [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4). Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).   --> 
 
-# Selected papers
+# Selected work
 
+- **Computer-Using Agent** <br>
+  OpenAI (core contributor) <br>
+    [product](https://operator.chatgpt.com) |
+    [blogpost](https://openai.com/index/computer-using-agent/) |
+    [system card](https://cdn.openai.com/operator_system_card.pdf) |
+    [bibtex](http://cdn.openai.com/cua/cua2025.bib)
+
+
+
+- **Deep Research** <br>
+  OpenAI (core contributor) <br>
+    [product](https://chatgpt.com) |
+    [blogpost](https://openai.com/index/introducing-deep-research/) 
+
+  
 - **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** <br>
   Shunyu Yao, Noah Shinn, Pedram Razavi, Karthik Narasimhan <br>
     [paper](https://arxiv.org/abs/2406.12045) |
