@@ -32,8 +32,9 @@ In my life, I read, travel, rap, and play basketball.
 
 # Selected work
 
-- **Computer-Using Agent** <br>
+- **Computer-Using Agent (CUA)** <br>
   OpenAI (core contributor) <br>
+  A universal agent/interface to interact with the digital world. <br>
     [product](https://operator.chatgpt.com) |
     [blogpost](https://openai.com/index/computer-using-agent/) |
     [system card](https://cdn.openai.com/operator_system_card.pdf) |
@@ -43,12 +44,14 @@ In my life, I read, travel, rap, and play basketball.
 
 - **Deep Research** <br>
   OpenAI (core contributor) <br>
+  An agent that navigates and reasons over the Internet to research for you. <br>
     [product](https://chatgpt.com) |
     [blogpost](https://openai.com/index/introducing-deep-research/) 
 
   
 - **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** <br>
   Shunyu Yao, Noah Shinn, Pedram Razavi, Karthik Narasimhan <br>
+  ICLR 2025 <br>
     [paper](https://arxiv.org/abs/2406.12045) |
     [repo](https://github.com/sierra-research/tau-bench) |
     [blog](https://sierra.ai/blog/benchmarking-ai-agents)
@@ -62,6 +65,7 @@ In my life, I read, travel, rap, and play basketball.
 
 - **SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models** <br>
   John Yang\*, Carlos E. Jimenez\*, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press <br>
+  NeurIPS 2024 <br>
     [paper](https://swe-agent.com/paper.pdf) |
     [repo](https://github.com/princeton-nlp/SWE-agent) |
     [tweet](https://twitter.com/jyangballin/status/1775114444370051582) |
